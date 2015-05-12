@@ -14,11 +14,12 @@ excerpt_separator: <!--more-->
 
 paginate: 5
 paginate_path: "/blog/page/:num/"
+permalink: "/blog/:year/:month/:day/:title/"
 
-defaults:
-  -
-    scope:
-      # path: "blog"
-      type: "posts"
-    values:
-      permalink: "/blog/:year/:month/:day/:title/"
+# defaults:
+#   -
+#     scope:
+#       # path: "blog"
+#       type: "posts"
+#     values:
+#       permalink: "/blog/:year/:month/:day/:title/"
