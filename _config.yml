@@ -18,6 +18,7 @@ paginate_path: "/blog/page/:num/"
 defaults:
   -
     scope:
+      # path: "blog"
       type: "posts"
     values:
       permalink: "/blog/:year/:month/:day/:title/"
