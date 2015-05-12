@@ -1,0 +1,24 @@
+- slug: stem
+  name: STEM
+- slug: education
+  name: education
+- slug: life
+  name: life
+- slug: technology
+  name: technology
+- slug: review
+  name: review
+- slug: college
+  name: college
+- slug: story-sunday
+  name: Story Sunday
+- slug: travel
+  name: travel
+- slug: photography
+  name: photography
+- slug: computer-science
+  name: Computer Science
+- slug: women-in-cs
+  name: Women in CS
+- slug: teaching
+  name: Teaching

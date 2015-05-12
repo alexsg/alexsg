@@ -1,105 +1,82 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+---
+layout: index
+---
 
-    <title>Alexandra Greenspan</title>
-    <meta name="description" content="{{meta_description}}" />
-
-    <meta name="HandheldFriendly" content="True" />
-    <meta name="MobileOptimized" content="320" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    <link rel="stylesheet" type="text/css" href="css/normalize.css" />
-    <link rel="stylesheet" type="text/css" href="css/screen.css" />
-
-</head>
-<body>
-
-<header id="site-head-post">
-    <div class="container-head">
-        <span class="navbar-logo">
-            <a href="#"><img class="blog-logo-post" src="http://blog.alexandragreenspan.com/content/images/2014/Dec/alex_square_pic_dec_2014.jpg" /></a>
-        </span>
-        <span class="navbar-blog-title">
-             <a class="blog-title-post" href="#">Alexandra Greenspan</a>
-        </span>
-
-        <div class="mobile-nav mobile-hidden">
-            <i class="fa fa-bars menu"></i>
-        </div>
-
-        <ul class="navbar-right navbar-mobile navbar-display">
-            <li><a href="/about/">About</a></li>
-            <li><a href="/more/">More</a></li>
-            <li><a href="#">Blog</a></li>
-            <li><a href="http://alexandragreenspan.com">Home</a></li>
-        </ul>
-    </div>
-</header>
-
-  <header>
-    <h1 class="post-title">Portfolio</h1>
-    <div class="post-meta">Links to portfolio stuff goes here</div>
-  </header>
-
-  <section class="post-content">
-
-
-    <div id="MixContainer">
-      <div class="filter-group">
-        <div class="filter" data-filter="all">Show All</div>
-        <div class="filter" data-filter=".ux-research">UX Research</div>
-        <div class="filter" data-filter=".ui-design">UI Design</div>
-        <div class="filter" data-filter=".product-design">Product Design</div>
-        <div class="filter" data-filter=".photography">Photography</div>
-        <!-- <div class="filter" data-filter=".theater-and-film">Theater and Film</div> -->
-      </div>
+<div class="homepage">
+<section class="container">
+  <div class="left-half">
+    <!-- <img src="/media/me_full.jpg" style="height:100%; width:auto%;" /> -->
+    <h1 style="visibility:hidden">Hi there my name is Alex and welcome to my site! Yay!</h1>
+  </div>
+  <div class="right-half">
+    <article>
+      <h1 class="blog-title">Hi, I'm <span style="color:#3498db">Alex</span>.</h1>
+      <p>
+      	I’m a computer science and cognitive science major at  UC Berkeley. Next fall, I’ll be an Associate Product Manager at Google. What inspires me? Design, photography, writing, and working with people to make a difference.
+      </p>
+      <h1 class="blog-title">
+      	<a href="https://instagram.com/polarwishes/" target="_blank"><i class="fa fa-instagram"></i></a>&nbsp;
+      	<a href="https://www.behance.net/alexsg" target="_blank"><i class="fa fa-behance-square"></i></a>&nbsp;
+      	<a href="https://www.linkedin.com/in/alexandragreenspan" target="_blank"><i class="fa fa-linkedin-square"></i></a>&nbsp;
+      	<a href="https://twitter.com/polarwishes" target="_blank"><i class="fa fa-twitter-square"></i></a>&nbsp;
+      	<a href="https://github.com/alexsg" target="_blank"><i class="fa fa-github-square"></i></a>
+      </h1>
+      <p>
+      	View my <a href="/portfolio">portfolio</a>.
       <br />
+      	Read my <a href="/blog">blog</a>.
+      </p>
+    </article>
+  </div>
+</section>
+</div>
 
-      <div class="items">
+<style>
 
-      <div class="mix ui-design" data-myorder="1"><img src="img/Drop-02.png" width="100%" height="100%"/></div> <!-- Drop -->
-      <div class="mix product-design" data-myorder="2"><img src="img/Momentum.png" width="100%" height="100%"/></div> <!-- Momentum -->
-      <div class="mix photography" data-myorder="3"><img src="img/SummerPhotoProject.png" width="100%" height="100%"/></div> <!-- Summer Photo Project of 2014 -->
-      <div class="mix ui-design" data-myorder="4"><a href="http://blog.alexandragreenspan.com/beacon/"><img src="img/Beacon.png" width="100%" height="100%" /></a></div> <!-- Beacon -->
-      <div class="mix product-design" data-myorder="5"><img src="img/Adventure.jpg" width="100%" height="100%" /></div> <!-- adVenture -->
-      <div class="mix photography" data-myorder="6"><img src="img/FavoritePhotos.jpg" width="100%" height="100%" /></div> <!-- Favorite photography work -->
-      <div class="mix product-design" data-myorder="7"><img src="img/LostPlayground.jpg" width="100%" height="100%" /></div> <!-- lostplayground -->
-      <div class="mix product-design" data-myorder="8"><img src="img/Faucet.png" width="100%" height="100%"/></div> <!-- Faucet -->
-      <div class="mix photography" data-myorder="9"><img src="img/365Project2013.png" width="100%" height="100%"/></div> <!-- 365 Project of 2013 -->
-      <div class="mix product-design" data-myorder="10"><img src="img/Fungi.jpg" width="100%" height="100%"/></div> <!-- Fascinating World of Fungi -->
-      <div class="mix ui-design" data-myorder="11"><img src="img/Musicbuddies.png" width="100%" height="100%"/></div> <!-- Musicbuddi.es -->
-      <div class="mix ux-research" data-myorder="12"><img src="img/Hikery.jpg" width="100%" height="100%"/></div> <!-- The Hikery -->
-      <!-- <div class="mix theater-and-film" data-myorder="13"></div> --> <!-- We'll Be In Touch -->
-      <!-- <div class="mix ui-design" data-myorder="14"></div> --> <!-- Endless Mobile -->
-      <!-- <div class="mix theater-and-film" data-myorder="15"></div> --> <!-- Hugh and Me -->
-      <!-- <div class="mix theater-and-film" data-myorder="16"></div> --> <!-- Normal -->
+p {
+	/*font-family: "Roboto";*/
+	/*font-size: 1.5rem;
+	line-height: 155%;*/
+}
 
-      <div class="gap"></div>
-      <div class="gap"></div>
-      <div class="gap"></div>
-      <div class="gap"></div>
+div {
+  height: 100%;
+}
 
-      </div>
+article {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  padding: 20px;
+}
 
-    </div>
+h1 {
+  font-size: 1.75rem;
+  margin: 0 0 0.75rem 0;
+}
 
+/* Pattern styles */
+.container {
+  display: table;
+  width: 100%;
+}
 
-  </section>
+.left-half {
+  background: url(/media/me_full.jpg); 
+  background-size: cover;
+    background-repeat: no-repeat;
+  position: absolute;
+  left: 0px;
+  max-width: 45%;
+}
 
-  <footer class="site-footer">
-      <div class="inner">
-           <section class="copyright">&copy; 2014 <a href="/">Alexandra Greenspan</a>. All rights reserved.</section>
-           <section>Vapor theme by <a href="http://sethlilly.com/">Seth Lilly</a> used as a template.</section>
-           <section class="poweredby">Proudly published with <a class="icon-ghost" href="http://ghost.org"><span class="hidden">Ghost</span></a></section>
-      </div>
-  </footer>
+.right-half {
+  background-color: #ffffff;
+  position: absolute;
+  right: 0px;
+  width: 55%;
+}
 
-    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-    <script src="http://cdn.jsdelivr.net/jquery.mixitup/latest/jquery.mixitup.min.js"></script>
-    <script type="text/javascript" src="js/index.js"></script>
-
-</body>
-</html>
+</style>

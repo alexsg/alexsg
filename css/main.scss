@@ -1,0 +1,51 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+
+// Our variables
+$bodyBackgroundColor: #ffffff;
+$baseFontFamily: "Merriweather", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
+$baseFontColor: #7f8c8d;
+$headerFontFamily: "Roboto Slab", $baseFontFamily;
+$headerFontColor: #151515;
+$headerLinkColor: $headerFontColor;
+$secondaryFontFamily: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
+$preFontFamily: "Consolas", Courier, monospace;
+$linkColor: #3498db;
+$linkColorHover: darken($linkColor, 50%);
+$borderColor: #ecf0f1;
+$subtleColor: rgba(0,0,0,0.05);
+$postmetaColor: #95a5a6;
+$gistBackgroundColor: #fdfdfd;
+
+$maxPageWidth: 600px;
+
+
+
+// Using media queries with like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "site",
+        "web-fonts",
+        "syntax-highlighting"
+;
+
+$web-fonts-params: (subset: "latin,latin-ext,cyrillic-ext,cyrillic");
+@include web-fonts(("Open Sans Condensed": "300"), ("Merriweather": ("400","300","300 italic","400 italic","700","700 italic")), ("Roboto Slab": ("400", "300")), ("Roboto": "300"));

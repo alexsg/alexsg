@@ -1,0 +1,15 @@
+---
+layout: post
+title: More Written Works
+date: '2014-02-22 22:01:17'
+---
+
+You can find posts by Alexandra on:
+
+* [alexsg.me](http://alexsg.me) - Tumblr blog, pre-Ghost era
+* [Ancestry.com Tech Roots](http://blogs.ancestry.com/techroots/ancestry-com-great-summer-experience-for-sf-interns/) - article about her 2013 summer software engineering internship experience at Ancestry.com
+* [berkeleyByte](http://www.berkeleybyte.com/author/alexsg/) - author archive for her journalistic endeavours as part of the berkeleyByte staff
+
+You can find posts about Alexandra on:
+
+* [Santa Cruz Children's Museum of Discovery](http://www.sccmod.org/blog/2013/12/17/uc-berkeley-team-brainstorms-fungi-exhibit/) - blog post from SCCMOD about the museum exhibit design project she worked on with a team in fall 2013

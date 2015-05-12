@@ -1,0 +1,121 @@
+---
+layout: post
+title: How to PM
+date: 2014-08-04 14:31:17.000000000 -07:00
+---
+*This post comes from my experience in the summer of 2014 as an APM intern at Google, as well as endless reading on the topic of product management and discussions with current PMs. External resources are at the bottom of the post. But be patient, my child, for there is much to learn before then.*
+
+So you want learn how to PM. Product manage. Project manage. Program manage. Pizza manage? (Might I recommend culinary school in Italy?) These titles all sound similar, but each takes unique responsibility. Sometimes, as one kind of PM, you may have to wear the hat of a different PM to get things done. Or even wear the hat of a *completely* different role to get things done. And that's what is most important: Getting Things Done. (Much like GSD, only the family-friendly version.)
+
+But let's take a step back from the *how* and start with the *what*.
+
+##What is PM
+
+So you think you may be interested in being a PM, but you're not sure exactly what a PM is. That's okay, and also impressive, considering the role of PM isn't something advertised as a career path. It's interdisciplinary, vaguely understood, ill-defined. It takes a while to grasp what the role truly involves. Only after my internship this summer have I gained a fuller understanding of what being a PM actually takes. My mom has been a project manager my whole life, and only just this summer (just the last week of my internship, really) did I realize I've found myself on the same path.
+
+If you've been president of a club (or another officer position with a lot of responsibility), a self-starter for some kind of extracurricular activity, a TA / tutor for a course, or in charge of a group for a class project, you have an inkling of what a PM does and why you might want to pursue PMing as a career.
+
+In general, PMs care about the *product*. It's their baby. PMs are responsible for the successful launch of a product, seeing it through and keeping track of contributions from all important parties. A good PM is the glue that keeps a product and its team together. If the product fails, it's on the PM. If it succeeds, it's one of the happiest days of the PM's life — and also thanks to a team effort with engineering, design, business, and whoever else was involved.
+
+Now, I can't speak for all companies, but what it seems to me is that for the most part, PMs are in charge of the product, not the people. They are self-starters with the drive to have ideas and the moxie to convince people that their ideas are worth implementing. To make a difference, the PM has to earn their team's trust.
+
+So a PM isn't managerial in the well-known sense of the word. And this management role is much more broad, because the product being managed could be anything, from a backend set of data logs to a user-facing feature inside a messaging app to an entire smartphone. This means each product may take a different part of one's skill set to fully realize a launch.
+
+PMs also don't necessarily have a direct hand in the creation of the product. Depending on the size of the company or team, the PM may dig into the code or mock up some wireframes (it's all about stepping in when needed to Get Things Done). For the most part though, the PM meets and confers with the engineers and designers as a guiding force. The PM is the one who understands the customers, the data, and the vision, so the PM needs to be able to bring these facets into all conversations with the team.
+
+You've heard the *what*. Let's move on to the *why*.
+
+##Why choose PM
+
+* If you have a creative vision
+* If you love to talk about or review products
+* If you like wearing many hats
+* If you like shaping the big picture
+* If you have a keen eye for design, but also the technical chops to run with the engineers
+* If you are a technical person who doesn't see yourself simply coding all your life
+* If you are double majoring in computer science and [business, psychology, economics, etc]
+* If you enjoy getting messy with data
+* If you don't shy away from problems but instead actively look for solutions
+* If you can explain ideas well
+* If you are interested in what the users have to say
+* If you enjoy people
+* If you send well-written, actionable emails
+* If you are the master of your inbox
+* If you like to move around and not sit at your desk all day
+* If you can stay organized and on top of deadlines
+* If you are passionate about what you do
+
+Do ~~any~~ many of these if-statements sound like you?
+
+	if True:
+    	print "PM, here I come!"
+    else:
+    	print "I have a different calling."
+        
+You're still here? Great! Let's keep going.
+
+##Interviewing for PM
+It's important to thouroughly know and understand what you put on your résumé, because it's likely that you'll be asked about the projects you include, as well as the teamwork and process that went into each project. PMs aren't viewed mainly by their coding abilities, which can be tested a little better on-the-spot (though more and more people look at code samples and GitHub projects these days), so many questions are directed at past work experience and how well you can explain it.
+
+Also, and this is key: Practice answering questions aloud. Many people are more eloquent when given time in their thoughts or writing than in their immediate speech. Practicing aloud comes from the same logic of reading an essay aloud as a final check before you turn it in: you're going to find parts of your thought process that don't make sense. Using a site such as [The PM Interview](http://www.thepminterview.com/) can direct you toward all the areas of questions to prepare for, as well as put you on the spot.
+
+Usual interview areas include (but are not limited to, nor exactly the same as): product design, behavioral, analytical, problem-solving, technical, business strategy, and market understanding.
+
+Below are some product-related questions to get you on the right track. You should definitely come up with answers for these before going into an interview. The *justification* and *reasoning* are key. (Feel free to copy and paste this next bit into a text editor to write your answers down.)
+
+**What is a product you think is poorly designed (and justify it)?**
+
+* Software:
+	* Mobile:
+    * Desktop:
+* Non-software:
+
+**What is a product you think is well designed (and justify it)?**
+
+* Software:
+	* Mobile:
+    * Desktop:
+* Non-software:
+
+**What's your favorite [INSERT COMPANY YOU ARE INTERVIEWING FOR] product (and why)?**
+
+* Software (if applicable):
+* Hardware (if applicable):
+
+**What's your least favorite [INSERT COMPANY YOU ARE INTERVIEWING FOR] product (and why)?**
+
+* Software (if applicable):
+* Hardware (if applicable):
+
+##Read on PM
+###PM Hiring
+Sometimes I think the best things to read are how people hire and look for candidates, such as Ken Norton's essay ["How to hire a product manager"](https://www.kennethnorton.com/essays/productmanager.html). His essay holds both wisdom of the ages and valuable example questions that you can use to prepare for your interviews.
+
+Another [article on interviewing](http://www.producttalk.org/2012/06/4-questions-i-always-ask-when-interviewing-product-managers/) (though more applicable to people with current jobs who are trying to switch roles) is by Teresa Torres. She has four PM questions she always asks in interviews, and she provides insight into the kinds of answers she expects a good PM candidate to have. She also has a [whole series](http://www.producttalk.org/2012/09/so-you-want-to-be-a-product-manager/) of blog posts on product management, so check out more if you like her writing.
+
+###PM Life
+Microsoft has a paper on their JobsBlog from 2007 called ["Zen of PM"](http://microsoftjobsblog.com/zen-of-pm/) that they share with all interview candidates. If you are specifically looking for a Program Manager position at Microsoft, I definitely recommend reading this over.
+
+Catherine Shyu wrote a [great article](https://medium.com/all-things-product-management/so-what-do-you-actually-do-as-a-product-manager-6baf424148c1) on Medium about her typical day in the life of a PM. Spoiler alert: There are a *lot* of emails and meetings. She also includes bits of atypical days as well, which is where you stretch the real PM muscles.
+
+[The PM Handbook](http://thepmhandbook.com/), created by Carl Shan and Brittany Cheng, features interviews with PMs at many different companies answering questions about their own experiences as well as providing advice for future PMs. Make sure to put yourself on the newsletter mailing list as well, so that you can receive weekly lists of articles about all areas of product management, from market insight to UX help to general PM advice.
+
+Check out [The Art of Product Management](http://pmblog.quora.com/) blog by Jackie Bavaro (co-author of *Cracking the PM Interview*) for thoughts and discussions on how to be a great PM.
+
+###PM Product Knowledge
+
+Read [Product Hunt](http://www.producthunt.com/) to think more about new technology and where it fits into the market.
+
+Read [Stratechery](http://stratechery.com/) to find great product insights by Ben Thompson, a technologist with a focus in strategy and business (recommended to me by Stephanie Szeto).
+
+Read [Co.Design](http://www.fastcodesign.com/) from Fast Company to dive deep into product design, business, and innovation.
+
+Read [Techmeme](http://techmeme.com/) to get up-to-the-minute tech news from a variety of news websites (also recommended to me by Stephanie Szeto).
+
+## Final Thoughts
+
+As a PM, you should strive to be in the [Top 1%](http://www.quora.com/What-distinguishes-the-Top-1-of-Product-Managers-from-the-Top-10) of all product managers. It's difficult, it's challenging, but ultimately it's rewarding. At least, that's what they keep telling me ([ba-dum-tss!](https://www.youtube.com/watch?v=9CdVTCDdEwI)).
+
+Hopefully, this extremely long blog post helped you — if so, please **share** with others who are interested in being or have the potential to be a PM. And if you find any more useful resources, [send](http://twitter.com/polarwishes) them my way and I'll update this post accordingly.
+
+[Back to Top](#)
