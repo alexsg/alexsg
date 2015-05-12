@@ -20,4 +20,4 @@ defaults:
     scope:
       type: "posts"
     values:
-      permalink: "/blog/:year/:month/:day/:title/"
+      permalink: "/:categories/:year/:month/:day/:title/"
