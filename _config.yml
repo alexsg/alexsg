@@ -20,4 +20,4 @@ defaults:
     scope:
       type: "posts"
     values:
-      permalink: pretty
+      permalink: "pretty"
