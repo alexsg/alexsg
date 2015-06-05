@@ -4,7 +4,34 @@ title: About
 permalink: /about/
 ---
 
-I fell into CS through web design. I've been creating my own websites on and off since fifth grade. My desire to go beyond and make things interactive led me to programming and computer science. I've worked on some awesome projects, from creating a game using Java GUIs in high school to building a Lisp interpreter in my first semester at Berkeley to Android programming, Arduino, Ruby on Rails, and more.
+<div style="text-align: center;"><img style="width: 30%;height: 30%;border-radius: 50%;" src="/media/me.jpg" /></div>
+
+I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science](http://ugis.ls.berkeley.edu/cogsci/) graduate from UC Berkeley. Fall 2015, I’ll be an Associate Product Manager at Google. What inspires me? Design, photography, writing, and working with people to make a difference.
+
+##Past Technical Experience
+* Freelance UX Designer & Researcher - various clients
+	* 2014 - present
+* Associate Product Management Intern - [Google](https://www.google.com/)
+	* Summer 2014
+* Software Engineering Intern - [Ancestry.com](http://www.ancestry.com/)
+	* Summer 2013
+* Software Engineering Intern - [eMetric](http://emetric.com/)
+	* Spring 2013
+
+##Past Leadership Experience
+* President - [Berkeley Innovation](http://www.ocf.berkeley.edu/~binnov/)
+	* Jan - Dec 2014
+* Partnership Chair - Berkeley Innovation
+	* Fall 2013, Spring 2015
+* Founding Member - [Berkeley Student Design Council](https://www.facebook.com/berkeleydesigncouncil)
+	* 2014 - 2015
+* Editor & Journalist - [berkeleyByte](http://www.berkeleybyte.com/author/alexsg/)
+	* Feb - Dec 2014
+
+##Website Details
+Built off of the Vapor theme for [Ghost](http://ghost.org) by [Seth Lily](http://sethlilly.com/).
+
+<!-- I fell into CS through web design. I've been creating my own websites on and off since fifth grade. My desire to go beyond and make things interactive led me to programming and computer science. I've worked on some awesome projects, from creating a game using Java GUIs in high school to building a Lisp interpreter in my first semester at Berkeley to Android programming, Arduino, Ruby on Rails, and more.
 
 For most of my life, I've also been intrigued by the brain, so once I arrived at Berkeley I decided to double major in cognitive science. <a href="http://www.eecs.berkeley.edu/" target="_blank">Computer Science</a> and <a href="http://ugis.ls.berkeley.edu/cogsci/" target="_blank">Cognitive Science</a> (or <strong>CS<sup>2</sup></strong> as we in the biz like to call it) actually go really well together, and my interdisciplinary classes have opened my eyes to many new interests: human-computer interaction, user experience research, technology and education, and so on. I know that I don't have to limit myself. For example, I can be a programmer <em>and</em> a designer, as well as so much more.
 
@@ -16,4 +43,4 @@ Outside of school, I interned at eMetric and Ancestry.com as a software engineer
 
 You might also be interested in my...
 
-[Portfolio](/portfolio) \| [GitHub](https://github.com/alexsg) \| [Behance](http://www.behance.net/alexsg) \| [Hackster](http://www.hackster.io/alexsg) \| [LinkedIn](http://www.linkedin.com/in/alexandragreenspan)
+[Portfolio](/portfolio) \| [GitHub](https://github.com/alexsg) \| [Behance](http://www.behance.net/alexsg) \| [Hackster](http://www.hackster.io/alexsg) \| [LinkedIn](http://www.linkedin.com/in/alexandragreenspan) -->
