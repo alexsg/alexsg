@@ -7,8 +7,8 @@ permalink: /portfolio/clockwork-chair/
 ###Dates
 February 2015
 
-###Team
-Me, Greta Gardner, Andy Mah
+###Built With
+[Greta Gardner](https://www.linkedin.com/pub/greta-gardner/99/418/b02), [Andy Mah](https://www.linkedin.com/in/andytmah)
 
 ###Mission
 To create a clock-inspired chair that rotates over time the longer someone sits, pushing people to take more frequent breaks throughout the day.

@@ -10,8 +10,8 @@ permalink: /portfolio/world-of-fungi/
 ###Dates
 September to December 2013
 
-###Team
-Me, Elizabeth Lin, Julia Solano, Sydney Mayes
+###Built With
+[Elizabeth Lin](http://www.elizabethylin.com/), Julia Solano, Sydney Mayes
 
 ###Mission
 To create a fun and educational exhibit on fungi.

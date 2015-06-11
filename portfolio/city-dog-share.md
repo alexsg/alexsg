@@ -5,13 +5,13 @@ permalink: /portfolio/city-dog-share/
 ---
 
 ###Client
-Eric of City Dog Share
+Eric of [City Dog Share](http://citydogshare.org/)
 
 ###Dates
 February to May 2015
 
-###Team
-Me, Michelle Nguyen, Juan Pinzon, Sydnee Stanley, Matthew Boggess, Sangeetha Alagappan
+###Built With
+Michelle Nguyen, Juan Pinzon, Sydnee Stanley, Matthew Boggess, Sangeetha Alagappan
 
 ###Mission
 To create a web application for the nonprofit City Dog Share, which currently operates out of Facebook. Facebook doesn't offer good searching for dogs, so we built out features specific to dogs in the web app.

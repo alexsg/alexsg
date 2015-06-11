@@ -7,8 +7,8 @@ permalink: /portfolio/lean/
 ###Dates
 April to May 2015
 
-###Team
-Me, Greta Gardner, Andy Mah, Jonathan Shum
+###Built With
+[Greta Gardner](https://www.linkedin.com/pub/greta-gardner/99/418/b02), [Andy Mah](https://www.linkedin.com/in/andytmah), [Jonathan Shum](https://www.linkedin.com/in/jonathanshum)
 
 ###Mission
 To create a transformational chair for a variety of seating experiences.

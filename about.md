@@ -9,8 +9,8 @@ permalink: /about/
 I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science](http://ugis.ls.berkeley.edu/cogsci/) graduate from UC Berkeley. Fall 2015, I’ll be an Associate Product Manager at Google. What inspires me? Design, photography, writing, and working with people to make a difference.
 
 ##Past Technical Experience
-* Freelance UX Designer & Researcher - various clients
-	* 2014 - present
+* Freelance UX Designer & Researcher - Various clients
+	* Fall 2014 - Present
 * Associate Product Management Intern - [Google](https://www.google.com/)
 	* Summer 2014
 * Software Engineering Intern - [Ancestry.com](http://www.ancestry.com/)
@@ -19,6 +19,8 @@ I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science
 	* Spring 2013
 
 ##Past Leadership Experience
+* Inventioneer - [UC Berkeley CITRIS Invention Lab](http://invent.citris-uc.org/)
+	* Feb 2014 - Present
 * President - [Berkeley Innovation](http://www.ocf.berkeley.edu/~binnov/)
 	* Jan - Dec 2014
 * Partnership Chair - Berkeley Innovation
@@ -29,7 +31,7 @@ I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science
 	* Feb - Dec 2014
 
 ##Website Details
-Built off of the Vapor theme for [Ghost](http://ghost.org) by [Seth Lily](http://sethlilly.com/).
+Jekyll site hosted on GitHub. Built off of the Vapor theme for [Ghost](http://ghost.org) by [Seth Lily](http://sethlilly.com/).
 
 <!-- I fell into CS through web design. I've been creating my own websites on and off since fifth grade. My desire to go beyond and make things interactive led me to programming and computer science. I've worked on some awesome projects, from creating a game using Java GUIs in high school to building a Lisp interpreter in my first semester at Berkeley to Android programming, Arduino, Ruby on Rails, and more.
 

@@ -7,8 +7,8 @@ permalink: /portfolio/beacon/
 ###Dates
 Berkeley CSUA Hackathon, May 2-3, 2014
 
-###Team
-Me, Larry Cao, Kenneth Lin, Kevin Chen, Elizabeth Cheng, Clare Lin
+###Built With
+Larry Cao, Kenneth Lin, Kevin Chen, Elizabeth Cheng, Clare Lin
 
 ###My Role
 I took on the role of both UI and Interaction Designer. Understanding what kind of interaction was most important for the app led to the overall design, as well as helped us iterate through early UIs.
