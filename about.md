@@ -13,7 +13,7 @@ I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science
 	* Fall 2014 - Present
 * Associate Product Management Intern - [Google](https://www.google.com/)
 	* Summer 2014
-* Software Engineering Intern - [Ancestry.com](http://www.ancestry.com/)
+* Software Engineering Intern - [Ancestry.com](http://blogs.ancestry.com/techroots/ancestry-com-great-summer-experience-for-sf-interns/)
 	* Summer 2013
 * Software Engineering Intern - [eMetric](http://emetric.com/)
 	* Spring 2013
