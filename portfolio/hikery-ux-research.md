@@ -5,7 +5,7 @@ permalink: /portfolio/hikery-ux-research/
 ---
 
 ###Client
-Katie Johnson of *The Hikery*
+Katie Johnson of The Hikery
 
 ###Dates
 Spring 2013
@@ -16,13 +16,13 @@ Spring 2013
 ###Mission
 Needs and Usability Assessment ([Information 214](https://blogs.ischool.berkeley.edu/i214s13/)) graduate-level course project for client The Hikery.
 
-###Research methods
+###Research Methods
 
 - Usability testing with interviews and interface tour (8 participants)
 - Competitive analysis (6 direct and indirect competitors)
 - Online and in-person survey (87 responses)
 
-###Project goals
+###Project Goals
 
 - Investigate factors that motivate or deter people from hiking.
 - Determine what attributes of a hike are most conducive to socializing.
