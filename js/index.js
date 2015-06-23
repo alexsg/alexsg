@@ -8,25 +8,21 @@
 
     $(document).ready(function(){
 
-        // On the home page, move the blog icon inside the header 
-        // for better relative/absolute positioning.
+        var pull        = $('#pull');
+        var menu        = $('#main-nav ul');
+        var menuHeight  = menu.height();
+     
+        $(pull).on('click', function(e) {
+            e.preventDefault();
+            menu.slideToggle();
+        });
 
-        //$("#blog-logo").prependTo("#site-head-content");
-
-        var mq = window.matchMedia('@media all and (max-width: 767px)'); // mobile
-        mq.addListener(function(changed) {
-		    if(changed.matches) {
-		        // the width of browser is more then 767px
-		        $('.navbar-right').removeAttr("style");
-		    } else {
-		        // the width of browser is less then 767px
-		    }
-		});
-
-        $('.mobile-nav').click(function() {
-        	$('.navbar-mobile').slideToggle();
-        }); 
-
+        $(window).resize(function(){
+            var w = $(window).width();
+            if(w > 320 && menu.is(':hidden')) {
+                menu.removeAttr('style');
+            }
+        });
 
         // Instantiate MixItUp:
         $('#MixContainer').mixItUp();
