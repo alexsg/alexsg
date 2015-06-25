@@ -646,6 +646,24 @@ a.archive-link {
 
 /* === Mix It Up === */
 
+#MixContainer{
+  padding: 0 2% 0;
+  text-align: justify;
+  font-size: 0;
+}
+
+#MixContainer:after{
+  content: '';
+  display: inline-block;
+  width: 100%;
+}
+
+#MixContainer .gap,
+#MixContainer .mix {
+  display: inline-block;
+  width: 49%; //used to be 300px
+}
+
 #MixContainer .mix{
     // background-color: $linkColor;
     // height: 300px;
@@ -655,42 +673,41 @@ a.archive-link {
     margin-bottom: 2%;
 }
 
-#MixContainer{
-  // padding: 2% 2% 0;
-  text-align: justify;
-}
-
-#MixContainer:after{
+#MixContainer .mix:before{
   content: '';
   display: inline-block;
-  width: 100%;
+  // padding-top: 60%;
 }
 
-.mix:before{
-  // content: '';
-  // display: inline-block;
-  padding-top: 60%;
+@media all and (min-width: 420px){
+  #MixContainer .gap,
+  #MixContainer .mix {
+    width: 32%;
+  }
 }
 
-.ui-design {
-    // background-color: red;
+@media all and (min-width: 640px){
+  #MixContainer .gap,
+  #MixContainer .mix {
+    width: 23.5%;
+  }
 }
 
-.ux-research {
-    // background-color: blue;
+////// Mix It Up Hover Item Styling //////
+
+.items:hover > .mix {
+  opacity: 0.5;
+  transition: opacity ease 0.7s;
+  -webkit-transition: opacity ease 0.7s;
 }
 
-.product-design {
-    // background-color: green;
+.items:hover > .mix:hover {
+  opacity: 1.0;
+  transition: opacity ease 0.7s;
+  -webkit-transition: opacity ease 0.7s;
 }
 
-.photography {
-    // background-color: pink;
-}
-
-.theater-and-film {
-    // background-color: purple;
-}
+////// Mix It Up Filter Styling //////
 
 #MixContainer .filter {
     display: inline;
@@ -719,64 +736,35 @@ a.archive-link {
     // padding: 2% 2% 0;
 }
 
-#MixContainer .gap{
-  display: inline-block;
-  // width: 300px;
-}
+// @media only screen and (min-width: 650px) {
+//     .mix {
+//         width: 30%;
+//         height: 30%;
+//     }
 
-.items:hover > .mix {
-  opacity: 0.5;
-  transition: opacity ease 0.7s;
-  -webkit-transition: opacity ease 0.7s;
-}
-
-.items:hover > .mix:hover {
-  opacity: 1.0;
-  transition: opacity ease 0.7s;
-  -webkit-transition: opacity ease 0.7s;
-}
-
-// #MixContainer img {
-//     -webkit-filter: grayscale(100%);
-//        -moz-filter: grayscale(100%);
-//          -o-filter: grayscale(100%);
-//         -ms-filter: grayscale(100%);
-//             filter: grayscale(100%); 
+//     .gap {
+//         width: 30%;
+//         height: 0px;
+//     }
 // }
 
-// #MixContainer img:hover {
-//     -webkit-filter: grayscale(0%);
-//        -moz-filter: grayscale(0%);
-//          -o-filter: grayscale(0%);
-//         -ms-filter: grayscale(0%);
-//             filter: grayscale(0%);
-//     transition: filter ease 0.7s;
-//     -webkit-transition: filter ease 0.7s; 
+// @media only screen and (max-width: 650px) {
+//     .items {
+//         // width: 80%;
+//         padding-left: 5%;
+//         padding-right: 5%;
+//     }
+
+//     .mix {
+//         width: 45%;
+//         height: 45%;
+//     }
+
+//     .gap {
+//         width: 45%;
+//         height: 0px;
+//     }
 // }
-
-@media only screen and (min-width: 500px) {
-    .mix {
-        width: 300px;
-        height: 300px;
-    }
-
-    .gap {
-        width: 300px;
-        height: 0px;
-    }
-}
-
-@media only screen and (max-width: 500px) {
-    .mix {
-        width: 200px;
-        height: 200px;
-    }
-
-    .gap {
-        width: 200px;
-        height: 0px;
-    }
-}
 
 /* === Media Queries === */
 
@@ -832,6 +820,16 @@ a.archive-link {
     #title-top {
         font-size: 20px;
     }
+
+    // .mix {
+    //     width: 100%;
+    //     height: auto;
+    // }
+
+    // .gap {
+    //     width: 100%;
+    //     height: 0px;
+    // }
 }
 
 @media only screen and (min-width: 320px) and (max-width: 500px) { 
