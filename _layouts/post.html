@@ -32,6 +32,12 @@ layout: default
     {{ content }}
 
 	<div class="post-meta tags">{{ tags_content }}</div>
+    <div class="post-meta tags">
+        Share on <i class="fa fa-share-alt"></i>
+            <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" title="Share on Twitter" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">Twitter</a>,
+            <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">Facebook</a>,
+            <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">Google+</a>
+    </div>
 
     <!-- {% if page.tags %}<div class="post-meta tags">Posted in  • {% for tag in page.tags %}{{ tag }} • {% endfor %}</div>{% endif %} -->
 

@@ -1,5 +1,6 @@
 # Site settings
 title: Alexandra Greenspan
+name: Alexandra Greenspan
 email: alexandra.greenspan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Portfolio and Blog
@@ -7,6 +8,14 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://alexsg.com" # the base hostname & protocol for your site
 twitter_username: polarwishes
 github_username:  alexsg
+facebook_username: alexandra.greenspan
+
+timezone:       America/Los_Angeles
+locale:         en_us
+icon:           /media/me.jpg
+author:
+  google_plus:  username
+fb_admins:      https://www.facebook.com/alexandra.greenspan
 
 # Build settings
 markdown: kramdown

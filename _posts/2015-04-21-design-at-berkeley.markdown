@@ -2,6 +2,7 @@
 layout: post
 title: Design at Berkeley
 date: '2015-04-21 05:40:58'
+featured_image: /content/images/2015/Apr/flyer.png
 categories: blog
 tags: [Design, College]
 
