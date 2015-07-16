@@ -3,6 +3,7 @@ layout: post
 title:  "Momentum"
 permalink: /portfolio/momentum/
 featured_image: /media/momentum/slides_map01.png
+excerpt: "Disney Imaginations 2015 competition entry - novel SF transportation combining augmented reality with the city's unique cultures."
 ---
 
 ###Dates
