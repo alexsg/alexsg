@@ -3,6 +3,7 @@ layout: post
 title:  "Clockwork"
 permalink: /portfolio/clockwork-chair/
 featured_image: https://hackster.imgix.net/uploads/image/file/36268/IMG_2321.jpg?w=1280&h=960&fit=clip&s=4d1e21211c7a15700a545c924adba6a2
+featured_image_outside_host: true
 ---
 
 ###Dates
