@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-<div style="text-align: center;"><img style="width: 30%;height: 30%;border-radius: 50%;" src="/media/me.jpg" /></div>
+<div style="text-align: center;"><img style="width: 50%;height: 50%;border-radius: 50%;" src="/media/me.jpg" /></div>
 
 I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science](http://ugis.ls.berkeley.edu/cogsci/) graduate from UC Berkeley. Fall 2015, I’ll be an Associate Product Manager at Google. What inspires me? Design, photography, writing, and working with people to make a difference.
 
-##Past Technical Experience
+##Technical Experience
 * Freelance UX Designer & Researcher - Various clients
 	* Fall 2014 - Present
 * Associate Product Management Intern - [Google](https://www.google.com/)
@@ -18,7 +18,7 @@ I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science
 * Software Engineering Intern - [eMetric](http://emetric.com/)
 	* Spring 2013
 
-##Past Leadership Experience
+##Leadership Experience
 * Inventioneer - [UC Berkeley CITRIS Invention Lab](http://invent.citris-uc.org/)
 	* Feb 2014 - Present
 * President - [Berkeley Innovation](http://www.ocf.berkeley.edu/~binnov/)

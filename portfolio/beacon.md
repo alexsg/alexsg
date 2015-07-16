@@ -19,6 +19,8 @@ Free food, cool stuff, stranger danger? Be a beacon. Tell those around you with 
 ###Technologies
 It uses iBeacon technology through Bluetooth LE from the iOS7 SDK. Sends location-based "beacons" (signals / notifications) to all people in the area without the use of GPS.
 
+---
+
 ![beacon logo](https://m1.behance.net/rendition/modules/113255755/disp/86b615d2cd338863b77f3c321e1d5f09.png)
 
 ##Sketches
