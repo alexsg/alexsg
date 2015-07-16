@@ -2,6 +2,8 @@
 layout: post
 title:  "User Research for The Hikery"
 permalink: /portfolio/hikery-ux-research/
+featured_image: /media/Hikery.jpg
+excerpt: "Performed usability and needs assessment for client The Hikery"
 ---
 
 ###Client

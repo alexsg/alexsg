@@ -2,7 +2,8 @@
 layout: post
 title:  "Beacon"
 permalink: /portfolio/beacon/
-featured_image: https://m1.behance.net/rendition/modules/113255755/disp/86b615d2cd338863b77f3c321e1d5f09.png
+featured_image: /media/Beacon.png
+excerpt: "Free food, cool stuff, stranger danger? Be a beacon. Tell those around you with the push of a button. And the world will listen."
 ---
 
 ###Dates

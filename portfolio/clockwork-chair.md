@@ -2,8 +2,8 @@
 layout: post
 title:  "Clockwork"
 permalink: /portfolio/clockwork-chair/
-featured_image: https://hackster.imgix.net/uploads/image/file/36268/IMG_2321.jpg
-featured_image_outside_host: true
+featured_image: /media/ClockworkChair.jpg
+excerpt: "Chair that keeps track of how long people sit in order to push them to take more breaks throughout the day."
 ---
 
 ###Dates

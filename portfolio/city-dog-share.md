@@ -2,6 +2,8 @@
 layout: post
 title:  "City Dog Share"
 permalink: /portfolio/city-dog-share/
+featured_image: /media/CityDogShare.png
+excerpt: "Created RoR web app for nonprofit City Dog Share"
 ---
 
 ###Client

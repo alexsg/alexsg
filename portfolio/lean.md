@@ -2,6 +2,8 @@
 layout: post
 title:  "Lean"
 permalink: /portfolio/lean/
+featured_image: /media/LeanChair.jpg
+excerpt: "A transformational chair for a variety of seating experiences"
 ---
 
 ###Dates

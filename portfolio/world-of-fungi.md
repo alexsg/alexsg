@@ -2,6 +2,8 @@
 layout: post
 title:  "Fascinating World of Fungi"
 permalink: /portfolio/world-of-fungi/
+featured_image: /media/Fungi.jpg
+excerpt: "A fun and educational scale model of a children's exhibit on fungi."
 ---
 
 ###Client
