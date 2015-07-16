@@ -2,6 +2,7 @@
 layout: post
 title:  "Momentum"
 permalink: /portfolio/momentum/
+featured_image: /media/momentum/slides_map01.png
 ---
 
 ###Dates
@@ -12,6 +13,9 @@ Sirisha Varigonda, Matt Brueckmann
 
 ###Mission
 [Disney Imaginations](https://disneyimaginations.com) 2015 Competition Prompt: *Take what Disney does best today — from its world-class theme parks, resorts, cruise ships, and other entertainment venues that are globally highly popular with families — and apply it to transportation within a major city. The team's Disney transportation experience should include station/stops and vehicle designs that reflect the diversity of the city, and are accessible, energy-friendly, and fun.*
+
+###My Role
+I put together all the pieces into our final presentation that we turned in to the competition. I also created the route map, the augmented reality example, and the schematic.
 
 ###Technologies
 Adobe Illustrator, Solidworks, Colored Pencils, Imagination
