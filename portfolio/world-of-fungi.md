@@ -13,7 +13,7 @@ excerpt: "A fun and educational scale model of a children's exhibit on fungi."
 September to December 2013
 
 ###Built With
-[Elizabeth Lin](http://www.elizabethylin.com/), Julia Solano, Sydney Mayes
+[Elizabeth Lin](http://www.elizabethylin.com/), [Julia Solano](http://www.solano.io/), [Sydney Mayes](https://www.linkedin.com/pub/sydney-mayes/89/9a3/b7)
 
 ###Mission
 To create a fun and educational exhibit on fungi.

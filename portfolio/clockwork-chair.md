@@ -44,7 +44,7 @@ I set a variable which monitored the light level from the sensor (aka checked if
 
 After making a prototype of the final design using ECO board and a jigsaw cutter, it was time to laser cut the chair and put it all together.
 
-<img src="https://hackster.imgix.net/uploads/image/file/36095/IMG_2258.jpg" class="lazyload" title="laser cutting" />
+<img src="/media/clockwork_animation.gif" class="lazyload" title="laser cutting" />
 *Cutting out the back of the chair and part of the motor mount*
 
 <img src="https://hackster.imgix.net/uploads/image/file/36098/IMG_2299.jpg" class="lazyload" title="motor mount" />
