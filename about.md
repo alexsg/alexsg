@@ -6,11 +6,13 @@ permalink: /about/
 
 <div style="text-align: center;"><img style="width: 50%;height: 50%;border-radius: 50%;" src="/media/me.jpg" /></div>
 
-I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science](http://ugis.ls.berkeley.edu/cogsci/) graduate from UC Berkeley. Fall 2015, I’ll be an Associate Product Manager at Google. What inspires me? Design, photography, writing, and working with people to make a difference.
+I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science](http://ugis.ls.berkeley.edu/cogsci/) graduate from UC Berkeley. Currently, I am an Associate Product Manager for Google Photos. What inspires me? Design, photography, writing, and working with people to make a difference.
 
 ##Technical Experience
+* Associate Product Manager - [Google Photos](https://photos.google.com/)
+	* August 2015 - Present
 * Freelance UX Designer & Researcher - Various clients
-	* Fall 2014 - Present
+	* Fall 2014 - Fall 2015
 * Associate Product Management Intern - [Google](https://www.google.com/)
 	* Summer 2014
 * Software Engineering Intern - [Ancestry.com](http://blogs.ancestry.com/techroots/ancestry-com-great-summer-experience-for-sf-interns/)
