@@ -8,9 +8,15 @@ permalink: /about/
 
 I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science](http://ugis.ls.berkeley.edu/cogsci/) graduate from UC Berkeley. Currently, I work as an Associate Product Manager on Google Photos. What inspires me? Design, photography, writing, and working with people to make a difference.
 
+##Most Popular Articles
+* [How to PM](/blog/2014/09/28/how-to-pm/) - starter guide for potential new PMs
+* [Björn Hartmann on design, teamwork and expertise](http://www.berkeleybyte.com/2014/12/03/design-notes-bjorn-hartmann-on-design-teamwork-and-expertise/)
+* [What I learned from hosting a designathon](/blog/2014/04/21/what-i-learned-from-hosting-a-designathon/)
+* [Q&A with CS Ed Reformer and PhD Candidate Omoju Miller](http://www.berkeleybyte.com/2014/03/11/qa-with-omoju-miller/)
+
 ##Technical Experience
 * Associate Product Manager - [Google Photos](https://photos.google.com/)
-	* August 2015 - Present
+	* Aug 2015 - Present
 * Freelance UX Designer & Researcher - Various clients
 	* Fall 2014 - Fall 2015
 * Associate Product Management Intern - [Google](https://www.google.com/)
@@ -22,7 +28,7 @@ I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science
 
 ##Leadership Experience
 * Inventioneer - [UC Berkeley CITRIS Invention Lab](http://invent.citris-uc.org/)
-	* Feb 2014 - Present
+	* Feb - June 2015
 * President - [Berkeley Innovation](http://www.ocf.berkeley.edu/~binnov/)
 	* Jan - Dec 2014
 * Partnership Chair - Berkeley Innovation
