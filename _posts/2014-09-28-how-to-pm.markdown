@@ -49,7 +49,7 @@ You've heard the *what*. Let's move on to the *why*.
 * If you can stay organized and on top of deadlines
 * If you are passionate about what you do
 
-Do ~~any~~ many of these if-statements sound like you?
+Do many of these if-statements sound like you?
 
 	if True:
     	print "PM, here I come!"
@@ -92,6 +92,7 @@ Below are some product-related questions to get you on the right track. You shou
 * Hardware (if applicable):
 
 ##Read on PM
+
 ###PM Hiring
 Sometimes I think the best things to read are how people hire and look for candidates, such as Ken Norton's essay ["How to hire a product manager"](https://www.kennethnorton.com/essays/productmanager.html). His essay holds both wisdom of the ages and valuable example questions that you can use to prepare for your interviews.
 
