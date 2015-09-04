@@ -25,6 +25,8 @@ Adobe Illustrator, CNC Router
 
 ![poster for the chair](/media/DesInv190FinalPoster.png)
 
+[Featured project](http://jacobsinstitute.berkeley.edu/student-project/lean/) on the Jacobs Institute for Design Innovation website.
+
 ##Background
 
 Sitting for long periods of time day after day can lead to health issues. We designed a chair geared towards education and taking a step toward solving this problem. Lean takes passivity out of sitting by putting the user in charge of the seating experience and how often to switch up the chair's shape.
