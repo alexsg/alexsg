@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Graduation Thowback
+title: Graduation Throwback
 date: '2015-09-03 17:34:45'
 published: true
 categories: blog
