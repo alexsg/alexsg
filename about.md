@@ -6,7 +6,7 @@ permalink: /about/
 
 <div style="text-align: center;"><img style="width: 50%;height: 50%;border-radius: 50%;" src="/media/me.jpg" /></div>
 
-I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science](http://ugis.ls.berkeley.edu/cogsci/) graduate from UC Berkeley. Currently, I work as an Associate Product Manager on Google Photos. What inspires me? Design, photography, writing, and working with people to make a difference.
+I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science](http://ugis.ls.berkeley.edu/cogsci/) graduate from UC Berkeley. Currently, I work as an Associate Product Manager at Google. What inspires me? Design, photography, writing, and working with people to make a difference.
 
 ##Most Popular Articles
 * [How to PM](/blog/2014/09/28/how-to-pm/) - starter guide for potential new PMs
@@ -15,7 +15,7 @@ I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science
 * [Q&A with CS Ed Reformer and PhD Candidate Omoju Miller](http://www.berkeleybyte.com/2014/03/11/qa-with-omoju-miller/)
 
 ##Technical Experience
-* Associate Product Manager - [Google Photos](https://photos.google.com/)
+* Associate Product Manager - [Google](https://www.google.com/)
 	* Aug 2015 - Present
 * Freelance UX Designer & Researcher - Various clients
 	* Fall 2014 - Fall 2015
