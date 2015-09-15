@@ -26,7 +26,7 @@ I volunteered through Google to be the emcee at the final awards ceremony on Sun
 The actual makerspace is amazing — floors of machines, laser cutters, 3D printers, and tons of other tools. Not to mention the people who bring the energy to the space. Here's one team presenting their disability-friendly kayak to the judges:
 
 ![kayak team picture](https://lh3.googleusercontent.com/J00j7FO6elfYnSpn-1ZnY9v6KQqGK7pMnuk8M-qYXaH34OY05w6aImPaX5aSBgvvXSh1eTeDlgLxp1UzsDXshdY8eubc1Q5M-5us9wtHjhnMUuoE86T8TV8Du803t2a8zmjdtni9IB-xEtnB_hI3TgFcaHUd0XyrYEpfiSKT3ACQHphuOGt7LePsFyt4NrOths1JnJbN_buLkaV7YttC_gWMiGjVsdeZJDqnHY06H7mZ--7aOJHI4zehkDHvsLJdz4LZyb8wmdt8NMrauUARl3GlAgleH_JI9c07yTg8GOxw7QM9aiYRyc48pH1daIiOZiDw9XoeMuudl1LEiaScLdR32zc1wYxG5xQsr2ecmFMcP0wAJcy-PMXWEI6DrG3oefWpTb73QJr8tuWQqJlmu_4YSkG_yHLLT_7RZcL-4_ppxb312YoYWGXzfimDV39IMCgMn1pucK-b3k1gABYWasFLNcS3D1bHMh0kjLY0zkALBvrYC41xSOymV0lUDt7xeXT1r7KPBvjQ1zzssr57x5AZaYNkcWKMdUPKww8U6Dls=w1820-h1364-no)
-*The paddles have added grip support, and a seating device provides support for people to sit safely in the kayak.*]
+*The paddles have added grip support, and a seating device provides support for people to sit safely in the kayak.*
 
 In total, 19 teams spent a month pre-planning, and a weekend building amazing new assistive technology prototypes. Winning a split prize from both Google.org and the Techshop were two teams, Smart Ass and Now Mobility, who the judges hope can come together to create future iterations of the "21st century wheelchair".
 
