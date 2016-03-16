@@ -29,9 +29,9 @@ I found Hamilton tickets online. *Good* Hamilton tickets. *Relatively inexpensiv
 ![too good to be true](http://alexandragreenspan.com/photos/hamilton_tickets.png)
 *Almost too good to be true.*
 
-Sirisha gasped on the other end of the phone; She was in Berkeley, and I in Mountain View. It was an ordinary Tuesday night. She had a club meeting, I stayed at work late to make up for errands I ran in the afternoon. I called her to go over my perplexing dream from the night before — I went to New York and saw Hamilton, but there was an extended scene with human-sized 3D printers onstage. It was absurd. So of course I had to go into minute detail.
+Sirisha gasped on the other end of the phone; She was in Berkeley, and I in Mountain View. It was an ordinary Tuesday night. She had a club meeting, I stayed at work late to make up for errands I ran in the afternoon. Earlier in the day, I called her to go over my perplexing dream from the night before — I went to New York and saw Hamilton, but there was an extended scene with human-sized 3D printers onstage. It was absurd. So of course I had to go into minute detail. And call her again later that night to discuss Hamilton more.
 
-Our conversation devolved into looking up ticket prices and flight sales and scheming how we’d get to New York together to see the musical, how much we were willing to pay for rear mezzanine seats, how we’d find cheap flights.
+Our conversation then devolved into looking up ticket prices and flight sales and scheming how we’d get to New York together to see the musical, how much we were willing to pay for rear mezzanine seats, how we’d find cheap flights.
 
 It was 8pm. I looked up the next day’s performance just for kicks. Found the Best Seats Ever. Looked up 5am Wednesday flights. Realized the performance was a 2pm matinee. And then found an 11:12pm flight leaving SFO that very night. Spent an hour debating life decisions. Even after we decided we shouldn’t do it, and Sirisha went to her club meeting, I kept the site open. I would run down the clock on J 103 and J 104, only to refresh again and put the seats on hold once more.
 
@@ -93,7 +93,7 @@ There was something wrong. That much was clear. We were heading back down. Emerg
 
 This part of the trip has no pictures, because Sirisha and I worked overtime in trying not to cry and keeping it together. We landed in Pittsburg around 10:30am. In an alternate universe, the two of us strolled through Newark airport, channeling the swag of Daveed Diggs' Thomas Jefferson.
 
-In this reality, panic. We schemed to get out of the plane as soon as we could, to reach the attendant first who would work with all the passengers to get on rerouted flights. Our fellow passangers thought the same. We were at least 20 deep in line with no hope.
+In this reality, panic. We schemed to get out of the plane as soon as we could, to reach the attendant first who would work with all the passengers to get on rerouted flights. Our fellow passengers thought the same. We were at least 20 deep in line with no hope.
 
 I found one of the flight attendants from the plane and asked him exactly what kind of trouble we'd had. Was it the weather?
 
@@ -139,7 +139,7 @@ We couldn't sell the other tickets.
 ## Part Six: How lucky we are to be here right now
 So no, we were not able to sell the other tickets. In these circumstances, didn't want the seats to go to waste, so I had a friend in New York take them, and with only 10 minutes to spare she rushed to the theater, in the rain, just making it by the start of the second song. Dramatic, perhaps, but totally necessary and worth it.
 
-The clock striked 2 o'clock and we were still in the air. 2:30pm and we walked off the plan, both defeated and optimistic, which is a hard set of emotions to balance. But we made the best of it, and continued to quote *Hamilton* non-stop.
+The clock striked 2 o'clock and we were still in the air. 2:30pm and we walked off the plane, both defeated and optimistic, which is a hard set of emotions to balance. But we made the best of it, and continued to quote *Hamilton* non-stop.
 
 We made it to New York. We had a performance to catch at 8pm.
 
@@ -148,20 +148,20 @@ We made it to New York. We had a performance to catch at 8pm.
 ![rain in new york](http://alexandragreenspan.com/photos/raindrops.JPG)
 *Pretty much the only photo I took between Detroit Airport and Hamilton. You can see where my priorities were.*
 
-The rest of the day passed in a blur of rain and anticipation. Sirisha submitted a homework assignment minutes before the deadline. We eventually made it to my office, where I proceeded to catch up on emails, schedule meetings, and catch a breath. Then Sirisha's sister joined us, and helped us prepare for the main event. Yes, we had been up since the previous morning and had just traveled across the country. Still, we wanted to look good.
+The rest of the day passed in a blur of rain and anticipation. Sirisha submitted a homework assignment minutes before the deadline. We eventually made it to Google's NYC office, where I proceeded to catch up on emails, schedule meetings, and catch a breath. Then Sirisha's sister Renuka joined us and helped us prepare for the main event. Yes, we had been up since the previous morning and had just traveled across the country. Still, we wanted to look good.
 
 ![us all dressed up with the stage](http://alexandragreenspan.com/photos/sirisha_and_alex.JPG)
 *Making the Schuyler Sisters proud.*
 
-If people noticed us as we sprinted like maniacs and vlogged simultaneous on our mad dash to the Richard Rodgers Theater from the 42nd St / Times Square subway station, I do not know and I do not care. We were on a mission. 10 minutes to showtime. Some point along the way as I picked up our tickets at the box office, I lost track of Sirisha's sister. And Sirisha.
+If people noticed us as we sprinted like maniacs and vlogged simultaneous on our mad dash to the Richard Rodgers Theater from the 42nd St / Times Square subway station, I do not know and I do not care. We were on a mission. 10 minutes to showtime. Some point along the way as I picked up our tickets at the box office, I lost track of Renuka. And Sirisha.
 
 I started to panic, fearing that at the last moment, after everything we'd gone through, this would be our downfall: A hungry crowd of ravenous theatergoers jockeying for a taste of American History set to hip hop and presented at 90 miles of lyrics a minute. We all wanted to be in The Room Where It Happens.
 
-Then I heard my name called as Sirisha pushed her way forward into the theater lobby. We swept through with the crowd, dazed our way into our *third row seats* and could not stop Freaking Out.
+Then I heard my name called as Sirisha pushed her way forward into the theater lobby. We swept through with the crowd, dazed our way into our *third row seats* and could not stop freaking out. Picture us with the most giddy expressions you can, and then picture the older audience members giving us a wide berth. We were practically jumping in our seats.
 
-Almost exactly 24 hours after pressing the button, purchasing the tickets, and committing to this journey, the lights dimmed in the theater. All eyes glued to the stage as Aaron Burr (played by Leslie Odom Jr.) entered stage right and opened the beginning number.
+Almost exactly 24 hours after pressing the button, purchasing the tickets, and committing to this journey, the lights dimmed in the theater. All eyes glued to the stage as Aaron Burr (played by Leslie Odom Jr.) entered stage right and began the opening number.
 
-At this point in my tale, I don't want to give it away. If you paid attention in US History class or saw the [classic commercial](https://www.youtube.com/watch?v=OLSsswr6z9Y), you know the main events of the story. Or go and listen to the [entire album](https://play.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) online. The musical is like *Les Miserables* in that the entire story is told through the songs. So with the album on repeat, "It could be enough."
+At this point in my tale, I don't want to give it away. If you paid attention in US History class or saw the [classic commercial](https://www.youtube.com/watch?v=OLSsswr6z9Y), you know the climactic resolution to the story. Or go and listen to the [entire album](https://play.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) online. The musical is like *Les Miserables* in that the entire story is told through the songs. So with the album on repeat, "it could be enough."
 
 But to see it in person: the nuances, the characterization, the unspoken interactions between characters, the choreography at key moments, the facial expressions captured from sitting so close to the stage, the actual staging and set that leads you to rethink entire acts...it 100% did in fact Blow Us All Away.
 
