@@ -52,7 +52,7 @@ I hit enter. Hamilton tickets were now in possession. There was no turning back.
 > “Hey yo, I’m just like my country / I’m young, scrappy and hungry / And I’m not throwing away my shot!"
 
 
-##Part Two: We’re Non-Stop
+## Part Two: We’re Non-Stop
 I drove home, my head racing, the lyric “How does he write like he’s running out of time?” transforming into “How does she drive like she’s running out of time?”. Sirisha raced into her house on a mission to buy our plane tickets. Delta, 11:12pm, SFO. We both needed a lift to the airport through our ridesharing app of choice. And we needed to call it fast; Delta won’t let you check-in with less than half an hour until boarding. 
 
 We debated what clothes to bring in what little time we had. Were we going to fly back right after the performance, or stay through the weekend? In our haste, a return flight was the least of our worries.
@@ -67,7 +67,7 @@ We arrived at the airport within minutes of each other, carry-on bags in arm and
 > "And when our children tell our story / They’ll tell the story of tonight"
 
 
-##Part Three: The Story of Tonight
+## Part Three: The Story of Tonight
 Let’s review. We bought our plane tickets at 9pm for an 11pm flight. We bought our tickets Tuesday night for the next day’s 2pm performance. We timed it all to a T — land in NYC around 10:30am, freshen up and eat lunch, and head to the theater.
 
 Of course, something had to go wrong.
@@ -88,7 +88,7 @@ We started to get nervous when when we boarded the plane and sat at the gate for
 
 Then a voice cut through the manufactured murmur of the cabin.
 
-##Part Four: Dealing with the unimaginable
+## Part Four: Dealing with the unimaginable
 There was something wrong. That much was clear. We were heading back down. Emergency landing. Pittsburg.
 
 This part of the trip has no pictures, because Sirisha and I worked overtime in trying not to cry and keeping it together. We landed in Pittsburg around 10:30am. In an alternate universe, the two of us strolled through Newark airport, channeling the swag of Daveed Diggs' Thomas Jefferson.
@@ -108,7 +108,7 @@ The gates of the airport passed in a blur. We reached our new plane. It would ta
 We wouldn't make it. There was nothing we could do.
 
 
-##Part Five: Not willing to Wait For It
+## Part Five: Not willing to Wait For It
 Let's recap. The time was now about 11am. Twelve hours prior, we took off from SFO. Two hours before that, we pressed enter on the craziest adventure of our lives. And 24 hours before that, it was a normal week with responsibilities and deadlines and the Hamilton soundtrack on constant repeat.
 
 It was not time to sulk. We couldn't turn around. The plan formed simultaneously in our minds: sell our tickets and buy new ones. I fished my laptop out of my bag, bracing myself.
@@ -136,7 +136,7 @@ We made it on the plane, finally on our way to New York City and *Hamilton*.
 We couldn't sell the other tickets.
 
 
-##Part Six: How lucky we are to be here right now
+## Part Six: How lucky we are to be here right now
 So no, we were not able to sell the other tickets. In these circumstances, didn't want the seats to go to waste, so I had a friend in New York take them, and with only 10 minutes to spare she rushed to the theater, in the rain, just making it by the start of the second song. Dramatic, perhaps, but totally necessary and worth it.
 
 The clock striked 2 o'clock and we were still in the air. 2:30pm and we walked off the plan, both defeated and optimistic, which is a hard set of emotions to balance. But we made the best of it, and continued to quote *Hamilton* non-stop.
@@ -168,7 +168,7 @@ But to see it in person: the nuances, the characterization, the unspoken interac
 ![hamilton marquee](http://alexandragreenspan.com/photos/hamilton_sign.JPG)
 *There are no words.*
 
-##Epilogue
+## Epilogue
 To conclude my tale, I want to emphasize that this spontaneous jaunt across the country was **completely worth it**.
 
 Also, here's a gif of us with Daveed Diggs (who plays Lafayette & Jefferson & absolutely kills it):
