@@ -101,6 +101,10 @@ Not just. He told me that after de-icing, the plane got up in the air fine. But 
 
 Back in line, Sirisha and I shared looks of dread. We took deep, calming breaths and told those closest in line our tale. The woman behind us sympathized — she was a fan of Hamilton as well! "You need to get to New York," she told us. "You can't miss that show."
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So... <a href="https://twitter.com/stephlystein">@stephlystein</a> <a href="https://twitter.com/HamiltonMusical">@HamiltonMusical</a> <a href="https://twitter.com/Lin_Manuel">@Lin_Manuel</a> by an cruel twist of fate, we got stuck at Pittsburgh due to ice. We NEED to see this show</p>&mdash; Alex (@polarwishes) <a href="https://twitter.com/polarwishes/status/702536775219150848">February 24, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+*Live tweeting the ordeal.*
+
 Newly encouraged, I asked Sirisha to hold our place in line while I tried to find another desk. My footsteps echoed through the near-empty airport. Down the way, a Delta worker with no line at her desk. With the finesse that only comes to me in situations of dire need, I convinced her to hear my plight and graciously reroute me and Sirisha on a 12:45pm LaGuardia-bound flight. She grumbled through the process, but she did it. I thanked her profusely.
 
 The gates of the airport passed in a blur. We reached our new plane. It would take off at 12:45. We would land at 2:15.
