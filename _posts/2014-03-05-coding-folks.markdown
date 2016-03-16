@@ -15,7 +15,7 @@ I'm part of an organization at Berkeley for students in science and engineering.
 
 The coolest part to me? All six of the students who want to learn to code are girls. Who knows? In four more years these girls may be studying in the [EECS Department](http://eecs.berkeley.edu) at Berkeley, breaking stereotypes and kicking butt because they started learning *now*.
 
-##Last Week's Lesson
+## Last Week's Lesson
 Last week, I taught one girl how variables and strings work in Python functions through the game of MadLibs. We made an awesome story about Doctor Who, and I think she really began to understand why a function can have multiple arguments, and how a variable can be inputted as a *placeholder* of sorts.
 
 In MadLibs, you must provide words for nouns, verbs, adjectives, etc. before you can see the finished story. In Python, a simple `name` argument can become any person's name that you want when you call a function. And when you write in the name, you don't get to see the "story" that's printed until you've finished providing all the variables.
@@ -28,7 +28,7 @@ In MadLibs, you must provide words for nouns, verbs, adjectives, etc. before you
     
 This was just one of those simple devices that I found really helpful in both explaining the material in a more fun way, and relating it to something the student had probably enjoyed playing with before.
 
-##Today's Lesson
+## Today's Lesson
 This week, we started going over more math-related coding. Our group teaches during their math class, so it was a really cool way to combine lessons.
 
 They had recently learned the **quadratic formula**, so after explaining the differences between ints (`42`), and floats (`42.0`), we taught them about a useful function that Python already provides: `pow(x, y)`. Once they understood how powers worked in Python, I helped them write a square root function to move slowly into the quadratic formula.
@@ -52,6 +52,6 @@ Learning to code is empowering - now instead of using a calculator, they can pro
 
 I can't wait to see what else they discover.
 
-###Notes
+### Notes
 * The girls use [Codecademy Labs](http://labs.codecademy.com/) to practice their Python, because it provides an awesome text editor + console combo.
 * The title of this post, *Coding Folks* is based on seeing the teacher write "Coding Folks up here!" on the board every week so the girls know where to sit.

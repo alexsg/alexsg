@@ -30,7 +30,7 @@ Then, with a turn of the corner, we made it to the shuk.
 
 It took a lot of self-restraint and the knowledge of the limited space in my suitcase to hold back from purchase after purchase after purchase. So instead, I made it my mission to uncover some of the more interesting items in the shuk.
 
-##Shuk Findings
+## Shuk Findings
 
 ![weapons?](/content/images/2014/Jun/2014-06-06-14-45-29.jpg)
 *Swashbucklin'*
@@ -67,7 +67,7 @@ So my second Friday in Tel Aviv came to a close with a smile of satisfaction, ey
 
 This post may seem out of the blue, but I'll write again soon with more details on my first ten days in Israel, my internship at Google Tel Aviv, and insight on living in a new country with a child's grasp on the language (I'm learning more every day, I promise!).
 
-###Pronunciation guide
+### Pronunciation guide
 Hebrew words are read from right to left.
 
 * bus - אוטובוס - auto-boos

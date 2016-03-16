@@ -13,7 +13,7 @@ So you want learn how to PM. Product manage. Project manage. Program manage. Piz
 
 But let's take a step back from the *how* and start with the *what*.
 
-##What is PM
+## What is PM
 
 So you think you may be interested in being a PM, but you're not sure exactly what a PM is. That's okay, and also impressive, considering the role of PM isn't something advertised as a career path. It's interdisciplinary, vaguely understood, ill-defined. It takes a while to grasp what the role truly involves. Only after my internship this summer have I gained a fuller understanding of what being a PM actually takes. My mom has been a project manager my whole life, and only just this summer (just the last week of my internship, really) did I realize I've found myself on the same path.
 
@@ -29,7 +29,7 @@ PMs also don't necessarily have a direct hand in the creation of the product. De
 
 You've heard the *what*. Let's move on to the *why*.
 
-##Why choose PM
+## Why choose PM
 
 * If you have a creative vision
 * If you love to talk about or review products
@@ -58,7 +58,7 @@ Do many of these if-statements sound like you?
         
 You're still here? Great! Let's keep going.
 
-##Interviewing for PM
+## Interviewing for PM
 It's important to thouroughly know and understand what you put on your résumé, because it's likely that you'll be asked about the projects you include, as well as the teamwork and process that went into each project. PMs aren't viewed mainly by their coding abilities, which can be tested a little better on-the-spot (though more and more people look at code samples and GitHub projects these days), so many questions are directed at past work experience and how well you can explain it.
 
 Also, and this is key: Practice answering questions aloud. Many people are more eloquent when given time in their thoughts or writing than in their immediate speech. Practicing aloud comes from the same logic of reading an essay aloud as a final check before you turn it in: you're going to find parts of your thought process that don't make sense. Using a site such as [The PM Interview](http://www.thepminterview.com/) can direct you toward all the areas of questions to prepare for, as well as put you on the spot.
@@ -91,14 +91,14 @@ Below are some product-related questions to get you on the right track. You shou
 * Software (if applicable):
 * Hardware (if applicable):
 
-##Read on PM
+## Read on PM
 
-###PM Hiring
+### PM Hiring
 Sometimes I think the best things to read are how people hire and look for candidates, such as Ken Norton's essay ["How to hire a product manager"](https://www.kennethnorton.com/essays/productmanager.html). His essay holds both wisdom of the ages and valuable example questions that you can use to prepare for your interviews.
 
 Another [article on interviewing](http://www.producttalk.org/2012/06/4-questions-i-always-ask-when-interviewing-product-managers/) (though more applicable to people with current jobs who are trying to switch roles) is by Teresa Torres. She has four PM questions she always asks in interviews, and she provides insight into the kinds of answers she expects a good PM candidate to have. She also has a [whole series](http://www.producttalk.org/2012/09/so-you-want-to-be-a-product-manager/) of blog posts on product management, so check out more if you like her writing.
 
-###PM Life
+### PM Life
 Microsoft has a paper on their JobsBlog from 2007 called ["Zen of PM"](http://microsoftjobsblog.com/zen-of-pm/) that they share with all interview candidates. If you are specifically looking for a Program Manager position at Microsoft, I definitely recommend reading this over.
 
 Catherine Shyu wrote a [great article](https://medium.com/all-things-product-management/so-what-do-you-actually-do-as-a-product-manager-6baf424148c1) on Medium about her typical day in the life of a PM. Spoiler alert: There are a *lot* of emails and meetings. She also includes bits of atypical days as well, which is where you stretch the real PM muscles.
@@ -107,7 +107,7 @@ Catherine Shyu wrote a [great article](https://medium.com/all-things-product-man
 
 Check out [The Art of Product Management](http://pmblog.quora.com/) blog by Jackie Bavaro (co-author of *Cracking the PM Interview*) for thoughts and discussions on how to be a great PM.
 
-###PM Product Knowledge
+### PM Product Knowledge
 
 Read [Product Hunt](http://www.producthunt.com/) to think more about new technology and where it fits into the market.
 

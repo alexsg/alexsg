@@ -64,7 +64,7 @@ I'm trying to cope with the loss of 3D printing this summer, but it hasn't been 
 
 I'm saving my brother's present for another post to make up for the lack of 3D printing-related posts this summer. Until then, [read](http://techcrunch.com/2014/05/05/mink-is-a-3d-printer-for-makeup/) about this new 3D printer for *makeup* if you haven't already.
 
-###Footnotes
+### Footnotes
 
 * [Propeller blade model](http://www.thingiverse.com/thing:249982)
  * We scaled it down by 0.4 and omitted the "spinner"

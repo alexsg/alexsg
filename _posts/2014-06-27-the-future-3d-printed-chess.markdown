@@ -74,6 +74,6 @@ So that's the story of the Doctor Who chess set and my grand foray into 3D print
 ![trying to use a sonic screwdriver on wooden chessboard doesn't work](/content/images/2014/Jun/2014-05-14-23-03-01.jpg)
 *Why won't this darn thing work on wood?*
 
-###Footnote
+### Footnote
 
 * [Doctor Who Chess model](http://www.thingiverse.com/thing:19841) on Thingiverse

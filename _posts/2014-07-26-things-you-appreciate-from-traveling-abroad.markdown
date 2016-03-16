@@ -12,7 +12,7 @@ tags: [Life, Travel, Photography, Summer Abroad]
 ![My bags as I left for this summer](/content/images/2014/Jul/IMG_0144.jpg)
 *JFK Airport - May 19: All I took with me for my summer working abroad.*
 
-##Things you appreciate from traveling abroad
+## Things you appreciate from traveling abroad
 
 * Learning how to pack efficiently.
 * Friendly airport passport-checkers.

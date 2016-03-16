@@ -21,7 +21,7 @@ It's not eco-friendly yet, but they’ll probably update that in the next releas
 
 There are also many different themes you can “wrap” your **letR** in. They’re called **velopes**. Furthermore, there are endless amounts of fonts and colors for **letR** - you can customize to your heart's content.
 
-###What’s their money-making plan?
+### What’s their money-making plan?
 
 Big-time users are going to pay for things called **s.tmps**. These also go on **letR** so that people know that you’re an advanced, paying user! Makes you feel special, doesn't it? 
 
@@ -29,5 +29,5 @@ The best part of **letR** is that it's most likely cheaper than your smartphone 
 
 If Facebook is too passé for you, Twitter too confining to a ~~word~~ character limit, and Tumblr too mainstream, don’t miss this offer! Become an early subscriber!
 
-#letR
+# letR
 *The U.S. Post Office Thanks You*

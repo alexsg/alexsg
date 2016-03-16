@@ -11,7 +11,7 @@ tags: [Photography, Computer Science, Critical Making]
 
 I hope you have a mathematical 3/14 today, especially at 1:59 PM if you know what I'm saying :)
 
-##And now...onto the arduino!
+## And now...onto the arduino!
 
 So yesterday I created my very first arduino circuit. It was the simple [Blink](http://arduino.cc/en/tutorial/blink) circuit they tell everyone to do as their first step. Not the most impressive circuit ever, but it's a start.
 
@@ -30,6 +30,6 @@ And now, behold my second circuit ever! I actually just followed [this tutorial]
 ![My second circuit ever - uses an accelerometer](/content/images/2014/Mar/2014_03_13_16_44_41.jpg)
 *Fancy clear breadboard so I can see how my circuit is connected*
 
-###Notes:
+### Notes:
 
 * My arduino for this class came as part of the [SparkFun Inventor's Kit](https://www.sparkfun.com/products/12001), which comes with tons of materials, wires, sensors and more, as well as a learning guide filled with circuit diagrams for you to try.
