@@ -16,7 +16,7 @@ tags:
 *In the theater world, the hit Broadway musical* Hamilton *is sold out until 2017.
 In the San Francisco Bay Area, two dedicated fans who listen to the cast album on endless repeat are about to stumble across the find of their lives. This is their story.*
 
-##Part One: We’re not throwing away our shot
+#Part One: We’re not throwing away our shot
 
 I threw my duffel to the floor and began racing through my closet with gusto, looking for pajamas, gloves, anything I thought I might need. Except I didn’t know how long I’d be gone. I haphazardly filled a bag with toiletries and glanced at my phone to check the time: 9:15pm.
 
