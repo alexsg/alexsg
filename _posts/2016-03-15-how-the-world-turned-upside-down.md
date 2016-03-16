@@ -1,12 +1,17 @@
 ---
 layout: post
 title: How The World Turned Upside Down
-date: '2016-03-15 07:34:45'
+date: "2016-03-15 07:34:45"
 published: true
 categories: blog
-tags: [Life, Travel, Photography, New York, Hamilton]
-
+tags: 
+  - Life
+  - Travel
+  - Photography
+  - New York
+  - Hamilton
 ---
+
 
 *In the theater world, the hit Broadway musical* Hamilton *is sold out until 2017.
 In the San Francisco Bay Area, two dedicated fans who listen to the cast album on endless repeat are about to stumble across the find of their lives. This is their story.*
