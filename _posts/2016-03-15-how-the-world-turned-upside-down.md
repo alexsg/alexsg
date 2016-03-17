@@ -101,7 +101,7 @@ Not just. He told me that after de-icing, the plane got up in the air fine. But 
 
 Back in line, Sirisha and I shared looks of dread. We took deep, calming breaths and told those closest in line our tale. The woman behind us sympathized — she was a fan of Hamilton as well! "You need to get to New York," she told us. "You can't miss that show."
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So... <a href="https://twitter.com/stephlystein">@stephlystein</a> <a href="https://twitter.com/HamiltonMusical">@HamiltonMusical</a> <a href="https://twitter.com/Lin_Manuel">@Lin_Manuel</a> by an cruel twist of fate, we got stuck at Pittsburgh due to ice. We NEED to see this show</p>&mdash; Alex (@polarwishes) <a href="https://twitter.com/polarwishes/status/702536775219150848">February 24, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">So... <a href="https://twitter.com/stephlystein">@stephlystein</a> <a href="https://twitter.com/HamiltonMusical">@HamiltonMusical</a> <a href="https://twitter.com/Lin_Manuel">@Lin_Manuel</a> by an cruel twist of fate, we got stuck at Pittsburgh due to ice. We NEED to see this show</p>&mdash; Alex (@polarwishes) <a href="https://twitter.com/polarwishes/status/702536775219150848">February 24, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 *Live tweeting the ordeal.*
 
