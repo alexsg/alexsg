@@ -6,21 +6,21 @@ featured_image: /media/Fungi.jpg
 excerpt: "A fun and educational scale model of a children's exhibit on fungi."
 ---
 
-###Client
+### Client
 [Santa Cruz Children's Museum of Discovery](http://www.sccmod.org/)
 
-###Dates
+### Dates
 September to December 2013
 
-###Built With
+### Built With
 [Elizabeth Lin](http://www.elizabethylin.com/), [Julia Solano](http://www.solano.io/), [Sydney Mayes](https://www.linkedin.com/pub/sydney-mayes/89/9a3/b7)
 
-###Mission
+### Mission
 To create a fun and educational exhibit on fungi.
 
 ![logo](https://m1.behance.net/rendition/modules/91582325/disp/976cca0c927ae737d24dd082d08f45aa.png?cb=790083494)
 
-##Research
+## Research
 
 Our design process included reading up on both museums and fungi, as well as visiting the Habitot Museum in Downtown Berkeley to observe children in an interactive museum environment. Throughout this process, we iterated on our ideas of what the museum exhibit should include and how it should convey the material. Some ideas at the early stages included large touch-screen walls and giant foam mushrooms.
 
@@ -28,11 +28,11 @@ At [Habitot](http://www.habitot.org/), we saw children playing in a "grocery sto
 
 ![Habitot](https://m1.behance.net/rendition/modules/91582327/disp/4732d1787f5e69608fdc19b6480f22b8.jpg?cb=790083494)
 
-##Prototyping
+## Prototyping
 
 Toward the middle of the semester, we decided to narrow our focus into answering questions, which we called "Learning Objectives." From there we considered the senses we wanted to engage in answering these questions. It was then that we realized we wanted to create an exhibit prototype that brought the outside world into the museum.
 
-###The Learning Objectives
+### The Learning Objectives
 
 * What is fungi?
 * Where are fungi found?
@@ -40,7 +40,7 @@ Toward the middle of the semester, we decided to narrow our focus into answering
 * Fungi in your life
 * Storytelling tree
 
-##Final Product
+## Final Product
 
 ![final scale model](https://m1.behance.net/rendition/modules/91686765/disp/68d167f8da9c6e62f78b6257a053a02c.jpg?cb=790083494)
 

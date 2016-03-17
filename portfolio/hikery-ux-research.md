@@ -6,31 +6,31 @@ featured_image: /media/Hikery.jpg
 excerpt: "Performed usability and needs assessment for client The Hikery"
 ---
 
-###Client
+### Client
 Katie Johnson of The Hikery
 
-###Dates
+### Dates
 Spring 2013
 
-###Built With
+### Built With
 [Amy Fu](http://amyfu.me/), [Arezu Aghaseyedjavadi](http://www.arezua.info/), [Yang Zhao](http://yangz.co/), Eddie Huang
 
-###Mission
+### Mission
 Needs and Usability Assessment ([Information 214](https://blogs.ischool.berkeley.edu/i214s13/)) graduate-level course project for client The Hikery.
 
-###Research Methods
+### Research Methods
 
 - Usability testing with interviews and interface tour (8 participants)
 - Competitive analysis (6 direct and indirect competitors)
 - Online and in-person survey (87 responses)
 
-###Project Goals
+### Project Goals
 
 - Investigate factors that motivate or deter people from hiking.
 - Determine what attributes of a hike are most conducive to socializing.
 - Identify the best process to enable a good socialization experience through hiking.
 
-###My Role
+### My Role
 Working on the [competitive analysis](#competitive-analysis) through profiling the competitors and creating a [feature grid](#feature-grid) and a [landscape analysis](#landscape-analysis). I also conducted a usability test and distributed surveys.
 
 **Full report duplicated below from [original report website](http://uploads.amyfu.me/i214/).**

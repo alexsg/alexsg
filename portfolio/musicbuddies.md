@@ -6,16 +6,16 @@ featured_image: /media/Musicbuddies.png
 excerpt: "musicbuddi.es is an app that helps you find new friends to listen to artists you both like at music festivals."
 ---
 
-###Event
+### Event
 OutsideHacks Fall 2013
 
-###Built With
+### Built With
 John Wang, Adib Behjat, Diivanand Ramalingam
 
-###Mission
+### Mission
 To create an app to enhance the festival-going experience.
 
-###Technologies
+### Technologies
 PHP, Firebase, Google Maps API, Facebook Parse API
 
 ---

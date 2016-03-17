@@ -6,16 +6,16 @@ featured_image: /media/ClockworkChair.jpg
 excerpt: "Chair that keeps track of how long people sit in order to push them to take more breaks throughout the day."
 ---
 
-###Dates
+### Dates
 February 2015
 
-###Built With
+### Built With
 [Greta Gardner](https://www.linkedin.com/pub/greta-gardner/99/418/b02), [Andy Mah](https://www.linkedin.com/in/andytmah)
 
-###Mission
+### Mission
 To create a clock-inspired chair that rotates over time the longer someone sits, pushing people to take more frequent breaks throughout the day.
 
-###Technologies
+### Technologies
 Arduino, Adobe Illustrator, Laser Cutter
 
 ---
@@ -24,11 +24,11 @@ Clockwork is a chair that keeps track of how long you sit. Its seat rotates abou
 
 There are many health risks that come with sitting for long stretches of time day after day, and Clockwork aims to create a fun an elegant way to combat these health issues. It's *time* to take a *stand* and get up out of your seat! At least until it lets you sit at your desk again.
 
-##Clockwork Demo
+## Clockwork Demo
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/iQr34T6Kir0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-##Process
+## Process
 
 It was a long process to figure out just how the chair design should reflect our timepiece inspiration.
 
@@ -53,7 +53,7 @@ After making a prototype of the final design using ECO board and a jigsaw cutter
 <img src="https://hackster.imgix.net/uploads/image/file/36099/IMG_2306.jpg" class="lazyload" title="time to atatch seat with base" />
 *Time to attach it all together!*
 
-##Final Chair Prototype
+## Final Chair Prototype
 
 <img src="https://hackster.imgix.net/uploads/image/file/36268/IMG_2321.jpg" class="lazyload" title="angle view of chair" />
 *Angle view*

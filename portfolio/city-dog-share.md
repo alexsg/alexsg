@@ -6,19 +6,19 @@ featured_image: /media/CityDogShare.png
 excerpt: "Created RoR web app for nonprofit City Dog Share"
 ---
 
-###Client
+### Client
 Eric of [City Dog Share](http://citydogshare.org/)
 
-###Dates
+### Dates
 February to May 2015
 
-###Built With
+### Built With
 Michelle Nguyen, Juan Pinzon, Sydnee Stanley, Matthew Boggess, Sangeetha Alagappan
 
-###Mission
+### Mission
 To create a web application for the nonprofit City Dog Share, which currently operates out of Facebook. Facebook doesn't offer good searching for dogs, so we built out features specific to dogs in the web app.
 
-###Technologies
+### Technologies
 Ruby on Rails, Heroku, OmniAuth, Foundation + Semantic UI, Amazon S3 + Paperclip, Google Maps
 
 ---
