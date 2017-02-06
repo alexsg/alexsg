@@ -2,6 +2,7 @@
 layout: post
 title: My Time on the Siene
 date: '2014-03-02 23:08:53'
+featured_image: /content/images/2014/Mar/2013_12_31_20_49_02.jpg
 categories: blog
 tags: [Story Sunday, Travel, Photography]
 

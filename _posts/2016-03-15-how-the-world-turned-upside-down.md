@@ -3,6 +3,7 @@ layout: post
 title: How The World Turned Upside Down
 date: "2016-03-15 07:34:45"
 published: true
+featured_image: http://alexandragreenspan.com/photos/hamilton_sign.JPG
 categories: blog
 tags: 
   - Life
