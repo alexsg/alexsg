@@ -21,7 +21,7 @@ fb_admins:      https://www.facebook.com/alexandra.greenspan
 markdown: kramdown
 excerpt_separator: <!--more-->
 
-gems:
+plugins:
   - jekyll-sitemap
 
 paginate: 5
