@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/the-switch-from-github-pages-to-netlify-forestry-io.md
 hide_body: false
 fields:
 - name: layout
