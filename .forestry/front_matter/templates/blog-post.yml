@@ -5,7 +5,7 @@ fields:
   label: Layout
   type: text
   hidden: false
-  default: ''
+  default: post
 - name: title
   label: Title
   type: text
@@ -15,12 +15,13 @@ fields:
   label: Date
   type: datetime
   hidden: false
-  default: ''
+  default: Invalid date
 - name: categories
   label: Categories
   type: tag_list
   hidden: false
   default: ''
+  description: Always write 'blog'
 - name: tags
   label: Tags
   type: tag_list
@@ -30,4 +31,5 @@ fields:
   label: Published
   type: boolean
   hidden: false
-  default: ''
+  default: false
+  description: Flip to 'true' when ready to publish (otherwise it will be a draft)
