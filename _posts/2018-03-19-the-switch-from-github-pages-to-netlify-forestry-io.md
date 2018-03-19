@@ -3,8 +3,10 @@ title: The Switch from GitHub Pages to Netlify & Forestry.io
 layout: post
 date: 2018-03-19 00:00:00 +0000
 published: true
-categories: []
-tags: []
+categories:
+- blog
+tags:
+- technology
 ---
 Well it's been an age since I posted last. But I blame it on the fact that writing a post meant I had to be on my own computer, using a text editor, and then pushing to GitHub so I could host my Jekyll site on GitHub Pages. The past year I was hardly on my own computer. After a day (or five) of working and staring at a screen why would I also want to go on the computer at home? Plus, sometimes I'd actually be more inclined to write on the go, such as with my phone at a coffee shop. Except nope – not that simple. I missed [Ghost](https://ghost.org/ "Ghost.org"), the old blogging platform I used that had everything a girl could want: Markdown formatting; a well-designed, minimal admin interface; mobile blogging abilities; SEO and AMP...sigh... 
 
