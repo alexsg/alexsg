@@ -29,7 +29,8 @@ fields:
   label: Tags
   type: tag_list
   hidden: false
-  default: ''
+  default: []
+  description: Press Tab Key after writing a tag to enter it
 - name: published
   label: Published
   type: boolean
