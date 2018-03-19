@@ -42,7 +42,7 @@ I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science
 
 ## Website Details
 
-Jekyll site hosted on [Netlify](https://www.netlify.com/ "Netlify"). Built off of the Vapor theme for [Ghost](http://ghost.org) by [Seth Lily](http://sethlilly.com/).
+Jekyll site hosted on [Netlify](https://www.netlify.com/ "Netlify"). Built off of the Vapor theme for [Ghost](http://ghost.org "Ghost.org") by [Seth Lilly](https://twitter.com/sethlilly "Seth Lilly").
 
 <!-- I fell into CS through web design. I've been creating my own websites on and off since fifth grade. My desire to go beyond and make things interactive led me to programming and computer science. I've worked on some awesome projects, from creating a game using Java GUIs in high school to building a Lisp interpreter in my first semester at Berkeley to Android programming, Arduino, Ruby on Rails, and more.
 
