@@ -1,24 +1,28 @@
 ---
 layout: post
-title:  "Lean"
-permalink: /portfolio/lean/
-featured_image: /media/LeanChair.jpg
-excerpt: "A transformational chair for a variety of seating experiences"
+title: Lean
+permalink: "/portfolio/lean/"
+featured_image: "/media/LeanChair.jpg"
+excerpt: A transformational chair for a variety of seating experiences
 ---
-
 ### Dates
+
 April to May 2015
 
 ### Built With
+
 [Greta Gardner](https://www.linkedin.com/pub/greta-gardner/99/418/b02), [Andy Mah](http://www.behance.net/andymah), [Jonathan Shum](http://jonathanshum.com/)
 
 ### Mission
+
 To create a transformational chair for a variety of seating experiences.
 
 ### Tagline
+
 LEAN: Your chair. Any way you want it.
 
 ### Technologies
+
 Adobe Illustrator, CNC Router
 
 ---
@@ -37,11 +41,11 @@ The form factor of Lean also makes a difference. Two-thirds of the slats that ma
 
 In earlier prototypes, we knew we wanted the convertability between chair and perch. What we didn't know is the best way to execute the transformations.
 
-![eary prototype of the chair](https://m2.behance.net/rendition/pm/26213515/max_1200/4daa3c722f3d463a5c5968d53dce4b03.jpg)
-*Prototype in chair form*
+![eary prototype of the chair](/media/lean_prototype_chair-compressor.jpg)
+_Prototype in chair form_
 
-![early prototype of the perch](https://m2.behance.net/rendition/pm/26213515/max_1200/db062d42b491a851ed8130e1418fbc0f.jpg)
-*Prototype in perch form*
+![early prototype of the perch](/media/lean_prototype_perch-compressor.jpg)
+_Prototype in perch form_
 
 Throughout the design process, we streamlined both the design of the chair, with slimmer and curvier slats, as well as the transformation mechanism of the chair. While our early prototype used long metal poles that had to be pulled in and out to change the shape, eventually we decided on a threaded locking mechanism that simply involved a handle to turn — while still not 100% ideal, the new mechaism was much more user-friendly.
 
@@ -51,17 +55,18 @@ For our final design, we wanted to highlight three forms of Lean that best tackl
 
 ### Perch
 
-![model on the perch](https://m2.behance.net/rendition/pm/26213515/max_1200/5dee4f8c7dbe2e6d3f99403f232d9252.jpg)
-*Right in between sitting and standing, this position allows you open up your pelvis with your legs down and outwards. In this position, one does not require back support, and you are sitting in a neutral position. Seat height: 24" with a 30 degree seat.*
+![model on the perch](/media/lean_model_perch-compressor.jpg)
+_Right in between sitting and standing, this position allows you open up your pelvis with your legs down and outwards. In this position, one does not require back support, and you are sitting in a neutral position. Seat height: 24" with a 30 degree seat._
 
 ### Lounge
 
-![model on the lounge](https://m2.behance.net/rendition/pm/26213515/max_1200/2ef8e3d17f8a70242f3db5798637cb82.jpg)
-*The intersection between sitting and lying down. Here your body is fully supported, and the load is taken off your spine.*
+![model on the lounge](/media/lean_model_lounge-compressor.jpg)
+_The intersection between sitting and lying down. Here your body is fully supported, and the load is taken off your spine._
 
 ### Chair with lumbar support
-![model on the lumbar chair](https://m2.behance.net/rendition/pm/26213515/max_1200/6089c91ab6b43debd21b642d805a802f.jpg)
-*Lumbar support helps keep the natural inward curvature of the lower spine. It also keeps the ears, shoulders, and hips aligned. Seat height: 17"*
+
+![model on the lumbar chair](/media/lean_model_chair-compressor.jpg)
+_Lumbar support helps keep the natural inward curvature of the lower spine. It also keeps the ears, shoulders, and hips aligned. Seat height: 17"_
 
 Some of the hardest parts of finalizing our design included figuring out the best angle for the perch and curvature for the lumbar support. Both of these features are understudied, and so the team really went through trial-and-error.
 
@@ -69,25 +74,25 @@ Some of the hardest parts of finalizing our design included figuring out the bes
 
 When we displayed our chair to the public, we recieved a lot of amazing feedback in terms of other chair shapes people wanted to try out. Just a few are shown below.
 
-![chair with leg support](https://m2.behance.net/rendition/pm/26213515/max_1200/18c33fdabf69b2a6f797b5104ae89e45.jpg)
-*Extremely customizable. Could potentially help with physical therapy.*
+![chair with leg support](/media/lean_leg_support-compressor.jpg)
+_Extremely customizable. Could potentially help with physical therapy._
 
-![bench layout](https://m2.behance.net/rendition/pm/26213515/max_1200/1b1f13b50d55a3ba1b480f73894c73ba.jpg)
-*Turn the chair into a table as well to support laptops, books, food...you name it!*
+![bench layout](/media/lean_bench-compressor.jpg)
+_Turn the chair into a table as well to support laptops, books, food...you name it!_
 
 We also heard feedback on even more versatile ways the three main transformations can be used. For example, a violinist noted that she would love to sit in the perch while playing violing, because normal chairs don't support the best posture needed for playing.
 
 And when your day is done and you need to take the chair on the go, many noted its compact form for work-to-home transportability.
 
-![compact](https://m2.behance.net/rendition/pm/26213515/max_1200/f231765e9d5f15c469bc483851a7bd27.jpg)
-*Space efficient for transportation*
+![compact](/media/lean_compact-compressor.jpg)
+_Space efficient for transportation_
 
 ## Conclusion
 
-![public display of Lean](https://m2.behance.net/rendition/pm/26213515/max_1200/6faaed0afb000250301423c1ded2f514.jpg)
-*Display of Lean, complete with mini prototype and poster*
+![public display of Lean](/media/lean_display-compressor.jpg)
+_Display of Lean, complete with mini prototype and poster_
 
 In conclusion, there are definitely many more possibilities for Lean to improve and expand. We see large-scale manufacturing a possibility if we wanted to market the chair broadly, as the slats are already the same shape. We'd also like to play with materials, to find something that is still sturdy yet cheaper or better for different weather conditions. No matter what, we want Lean to stay true to its core purpose, and inspire people to make health-conscious decisions, even with something as deceptively simple as a chair.
 
-![the Lean team](https://m2.behance.net/rendition/pm/26213515/max_1200/95163612baac6f8204bf3f569b5dfd30.jpg)
-*The Lean Team*
+![the Lean team](/media/lean_team-compressor.jpg)
+_The Lean Team_
