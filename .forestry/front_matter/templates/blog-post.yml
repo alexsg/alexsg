@@ -1,6 +1,5 @@
 ---
-pages:
-- _posts/2018-03-19-the-switch-from-github-pages-to-netlify-forestry-io.md
+label: Blog Post
 hide_body: false
 fields:
 - name: layout
@@ -37,3 +36,5 @@ fields:
   hidden: false
   default: false
   description: Flip to 'true' when ready to publish (otherwise it will be a draft)
+pages:
+- _posts/2018-03-19-the-switch-from-github-pages-to-netlify-forestry-io.md

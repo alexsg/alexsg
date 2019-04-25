@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: "/about/"
+
 ---
 <div style="text-align: center;"><img style="width: 50%;height: 50%;border-radius: 50%;" src="/media/me.jpg" /></div>
 
@@ -16,8 +17,10 @@ I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science
 
 ## Technical Experience
 
+* Product Manager - [Google](https://www.google.com/)
+  * April 2018 - Present
 * Associate Product Manager - [Google](https://www.google.com/)
-  * Aug 2015 - Present
+  * Aug 2015 - April 2018
 * Freelance UX Designer & Researcher - Various clients
   * Fall 2014 - Fall 2015
 * Associate Product Management Intern - [Google](https://www.google.com/)
