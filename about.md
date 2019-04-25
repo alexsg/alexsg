@@ -18,7 +18,7 @@ I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science
 ## Technical Experience
 
 * Product Manager - [Google](https://www.google.com/)
-  * April 2018 - Present
+  * April 2018 - Present 
 * Associate Product Manager - [Google](https://www.google.com/)
   * Aug 2015 - April 2018
 * Freelance UX Designer & Researcher - Various clients
