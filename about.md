@@ -11,14 +11,13 @@ I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science
 ## Most Popular Articles
 
 * [How to PM](/blog/2014/09/28/how-to-pm/) - starter guide for potential new PMs
-* [Björn Hartmann on design, teamwork and expertise](http://www.berkeleybyte.com/2014/12/03/design-notes-bjorn-hartmann-on-design-teamwork-and-expertise/)
 * [What I learned from hosting a designathon](/blog/2014/04/21/what-i-learned-from-hosting-a-designathon/)
-* [Q&A with CS Ed Reformer and PhD Candidate Omoju Miller](http://www.berkeleybyte.com/2014/03/11/qa-with-omoju-miller/)
+* [How The World Turned Upside Down](https://www.alexsg.com/blog/2016/03/15/how-the-world-turned-upside-down/)
 
 ## Technical Experience
 
 * Product Manager - [Google](https://www.google.com/)
-  * April 2018 - Present 
+  * April 2018 - Present
 * Associate Product Manager - [Google](https://www.google.com/)
   * Aug 2015 - April 2018
 * Freelance UX Designer & Researcher - Various clients
@@ -60,3 +59,7 @@ Outside of school, I interned at eMetric and Ancestry.com as a software engineer
 You might also be interested in my...
 
 [Portfolio](/portfolio) | [GitHub](https://github.com/alexsg) | [Behance](http://www.behance.net/alexsg) | [Hackster](http://www.hackster.io/alexsg) | [LinkedIn](http://www.linkedin.com/in/alexandragreenspan) -->
+
+<!--[Björn Hartmann on design, teamwork and expertise](http://www.berkeleybyte.com/2014/12/03/design-notes-bjorn-hartmann-on-design-teamwork-and-expertise/)
+
+[Q&A with CS Ed Reformer and PhD Candidate Omoju Miller](http://www.berkeleybyte.com/2014/03/11/qa-with-omoju-miller/)-->
