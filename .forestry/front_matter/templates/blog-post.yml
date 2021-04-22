@@ -38,3 +38,4 @@ fields:
   description: Flip to 'true' when ready to publish (otherwise it will be a draft)
 pages:
 - _posts/2018-03-19-the-switch-from-github-pages-to-netlify-forestry-io.md
+- _posts/how-to-pm-7-years-later.md
