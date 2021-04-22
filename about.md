@@ -6,7 +6,7 @@ permalink: "/about/"
 ---
 <div style="text-align: center;"><img style="width: 50%;height: 50%;border-radius: 50%;" src="/media/me.jpg" /></div>
 
-I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science](http://ugis.ls.berkeley.edu/cogsci/) graduate from UC Berkeley. Currently, I'm a Product Manager at Google. What inspires me? Design, photography, writing, comedy, and working with people to make a difference.
+I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science](http://ugis.ls.berkeley.edu/cogsci/) graduate from UC Berkeley. Most recently, I was a Product Manager at Google. What inspires me? Design, photography, writing, comedy, and working with people to make a difference.
 
 ## Most Popular Articles
 
@@ -17,9 +17,9 @@ I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science
 ## Technical Experience
 
 * Product Manager - [Google](https://www.google.com/)
-  * April 2018 - Present
+  * April 2018 - February 2021
 * Associate Product Manager - [Google](https://www.google.com/)
-  * Aug 2015 - April 2018
+  * August 2015 - April 2018
 * Freelance UX Designer & Researcher - Various clients
   * Fall 2014 - Fall 2015
 * Associate Product Management Intern - [Google](https://www.google.com/)
@@ -39,12 +39,12 @@ I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science
   * Fall 2013, Spring 2015
 * Founding Member - [Berkeley Student Design Council](https://www.facebook.com/berkeleydesigncouncil)
   * 2014 - 2015
-* Editor & Journalist - [berkeleyByte](http://www.berkeleybyte.com/author/alexsg/)
+* Editor & Journalist - berkeleyByte
   * Feb - Dec 2014
 
 ## Website Details
 
-Jekyll site hosted on [Netlify](https://www.netlify.com/ "Netlify"). Built off of the Vapor theme for [Ghost](http://ghost.org "Ghost.org") by [Seth Lilly](https://twitter.com/sethlilly "Seth Lilly").
+Jekyll site edited in [Foresty.io](https://forestry.io/ "Forestry.io") and hosted on [Netlify](https://www.netlify.com/ "Netlify"). Built off of the Vapor theme for [Ghost](http://ghost.org "Ghost.org") by [Seth Lilly](https://twitter.com/sethlilly "Seth Lilly").
 
 <!-- I fell into CS through web design. I've been creating my own websites on and off since fifth grade. My desire to go beyond and make things interactive led me to programming and computer science. I've worked on some awesome projects, from creating a game using Java GUIs in high school to building a Lisp interpreter in my first semester at Berkeley to Android programming, Arduino, Ruby on Rails, and more.
 
