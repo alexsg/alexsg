@@ -24,4 +24,4 @@ Write.as custom CSS and JS
 
 ***
 
-![](/media/inconvenience-site.png)
+![](/media/film-site-responsive.png)
