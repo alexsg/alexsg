@@ -41,7 +41,7 @@ I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science
 
 * Director & Executive Producer - (in)convenience Short Film
   * June 2022 - Present
-* Co-Founder - WE in DCM (Women's Empowerment group at Google)
+* Co-Founder - Women's Empowerment group at Google
   * January 2020 - January 2021
 * Inventioneer - [UC Berkeley CITRIS Invention Lab](http://invent.citris-uc.org/)
   * Feb - June 2015
