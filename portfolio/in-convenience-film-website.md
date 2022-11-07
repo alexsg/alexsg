@@ -1,29 +1,27 @@
 ---
 layout: post
 title: "(In)convenience Film Website"
-permalink: "/portfolio/cost-plus-emails/"
-featured_image: "/media/costplusemails.png"
-excerpt: PM'd and built the entire transactional email campaign for Cost Plus Drugs
-  MVP launch.
-published: false
+permalink: "/portfolio/inconvenience-website/"
+featured_image: "/media/inconvenience-site.png"
+excerpt: Designed and developed website for my short film, (in)convenience
 
 ---
 ### Dates
 
-August - December 2021
+September 2022
 
 ### Role
 
-Senior Product Manager, [Truepill](https://truepill.com/ "Truepill")
+Designer and Developer
 
 ### Summary
 
-PM'd and built the entire transactional email campaign for the MVP launch of [Mark Cuban Cost Plus Drug Company](https://costplusdrugs.com/).
+Designed and developed website for my short film, [(in)convenience](https://inconvenience.alexicography.com/).
 
 ### Technologies
 
-Sendgrid
+Write.as custom CSS and JS
 
 ***
 
-![](/media/costplusemails.png)
+![](/media/inconvenience-site.png)
