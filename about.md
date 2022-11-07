@@ -6,7 +6,7 @@ permalink: "/about/"
 ---
 <div style="text-align: center;"><img style="width: 50%;height: 50%;border-radius: 50%;" src="/media/me.jpg" /></div>
 
-I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science](http://ugis.ls.berkeley.edu/cogsci/) graduate from UC Berkeley. Most recently, I was a Product Manager at Google. What inspires me? Design, photography, writing, comedy, and working with people to make a difference.
+I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science](http://ugis.ls.berkeley.edu/cogsci/) graduate from UC Berkeley. I'm a product manager, previously at Google and Truepill. I'm a filmmaker in post-production on the first short film I've written and directed, [(in)convenience](https://inconvenience.alexicography.com/ "(in)convenience)"). What inspires me? Design, photography, writing, comedy, and working with people to make a difference.
 
 ## Most Popular Articles
 
@@ -14,8 +14,16 @@ I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science
 * [What I learned from hosting a designathon](/blog/2014/04/21/what-i-learned-from-hosting-a-designathon/)
 * [How The World Turned Upside Down](https://www.alexsg.com/blog/2016/03/15/how-the-world-turned-upside-down/)
 
+## Most Popular Short Stories
+
+* [Wistful](http://www.alexicography.com/wistful "Wistful")
+* [Redamancy](http://www.alexicography.com/redamancy "Redamancy")
+* [Fancy](http://www.alexicography.com/fancy "Fancy")
+
 ## Technical Experience
 
+* Senior Product Manager - [Truepill](https://truepill.com/ "Truepill")
+  * April 2021 - August 2022
 * Product Manager - [Google](https://www.google.com/)
   * April 2018 - February 2021
 * Associate Product Manager - [Google](https://www.google.com/)
@@ -31,6 +39,10 @@ I’m a [computer science](http://www.eecs.berkeley.edu/) and [cognitive science
 
 ## Leadership Experience
 
+* Director & Executive Producer - (in)convenience Short Film
+  * June 2022 - Present
+* Co-Founder - WE in DCM (Women's Empowerment group at Google)
+  * January 2020 - January 2021
 * Inventioneer - [UC Berkeley CITRIS Invention Lab](http://invent.citris-uc.org/)
   * Feb - June 2015
 * President - [Berkeley Innovation](http://www.ocf.berkeley.edu/\~binnov/)
