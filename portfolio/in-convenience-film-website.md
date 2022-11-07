@@ -16,7 +16,7 @@ Designer and Developer
 
 ### Summary
 
-Designed and developed website for my short film, [(in)convenience](https://inconvenience.alexicography.com/).
+Designed and developed website for my short film, [(in)convenience](https://inconvenience.alexicography.com/). My responsive web design looks great on all devices!
 
 ### Technologies
 
